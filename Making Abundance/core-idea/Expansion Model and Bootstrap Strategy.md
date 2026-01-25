@@ -257,6 +257,95 @@ It fails when:
 
 ---
 
+## Communication Functions: Split by Purpose
+
+Media, education, and communication are not one thing. They serve different purposes and use different approaches.
+
+### Function 1: Storytelling (Outward-Facing)
+
+**Purpose**: Enrollment. Help people outside the movement understand what abundance is and why they might want to join.
+
+**Approach**: Evergrey model (see above)
+- Curiosity-driven
+- Community-focused
+- Questions from audience, not editorial agenda
+
+**Audience**: People who don't yet know about or understand the movement.
+
+---
+
+### Function 2: Behavior Training (Inward-Facing)
+
+**Purpose**: Transmission. Help members learn the behaviors that make abundance work.
+
+**Approach**: [Green Path](https://www.marianhartman.com/) (Marian Hartman's behavior-first change method)
+
+**Core principle**: Align on behaviors, not beliefs. Individual freedom to create your own theory/narrative—we don't require you to think a certain way. We align on:
+- The behaviors that work
+- The behaviors we want to share
+- Observable, repeatable actions
+
+**How it works** (from Green Path):
+- Behavior-first, not theory-first
+- Give people "recipes"—steps they can follow exactly to achieve results
+- Make progress visible through micro-behaviors
+- Meet people where they're at
+- Change sticks because it's grounded in action, not ideology
+
+**Why this matters for abundance**:
+- Avoids ideological capture (we're not a belief system)
+- Respects individual autonomy (think what you want, do what works)
+- Creates alignment without conformity
+- Makes onboarding concrete, not abstract
+- Addresses the socialization problem from [[Lessons from Existing Implementations]]—transmits culture through practice, not indoctrination
+
+**Examples of abundance behaviors** (to be developed):
+- How to participate in consent-based decisions
+- How to raise objections constructively
+- How to use the two-tier pricing system
+- How to contribute within your circle
+- How to rotate roles effectively
+
+---
+
+### Function 3: Community Connection (Inward-Facing)
+
+**Purpose**: Retention and transparency. Help members feel connected, surface concerns, answer questions.
+
+**Approach**: Evergrey model adapted for internal audience
+- What questions do members actually have?
+- What's working? What's not?
+- Connect members to each other, not just to central narrative
+
+**Audience**: Existing members.
+
+---
+
+### Function 4: Science Communication (Later Tier)
+
+**Purpose**: Spread real science, dispel fakes. Combat misinformation that undermines abundance (e.g., climate denial, anti-renewable propaganda).
+
+**Approach**: TBD—this is complex and requires careful design to avoid becoming propaganda itself.
+
+**Timing**: Later tier. Not core to getting flywheel started, but becomes important as movement scales and faces organized opposition.
+
+**Risk**: Easy to slide from "spreading real science" to "enforcing orthodoxy." Must maintain behavior-first principle—we align on what works, not on what you must believe.
+
+---
+
+### Summary: Communication Functions
+
+| Function | Direction | Purpose | Approach |
+|----------|-----------|---------|----------|
+| Storytelling | Outward | Enrollment | Evergrey (curiosity-driven) |
+| Behavior Training | Inward | Transmission | Green Path (behavior-first) |
+| Community Connection | Inward | Retention | Evergrey adapted |
+| Science Communication | Outward | Counter-misinfo | TBD (later tier) |
+
+Each function is a separate circle (or set of circles) with its own governance, preventing any single communication function from dominating.
+
+---
+
 ## Open Questions
 
 1. **Access to governors**: How do you get in the room? Who has relationships? What's the pitch that opens doors?
