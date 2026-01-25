@@ -35,6 +35,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 - Elaborate insights into ideas
 - Ask what perspective to take when relevant
 
+**Workflow**:
+- Commit after each step (each completed piece of work, not each file)
+
 ## Current Phase
 
 **Focus**: Clarity of thought. Developing the right model, backed by references to existing implementations.
