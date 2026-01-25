@@ -10,17 +10,19 @@ Growth happens in tiers. Each tier must be established before the next becomes p
 
 ### Core Tier (First)
 
-The minimum needed to get the flywheel spinning. These industries provide:
-- Basic survival needs (reduces members' scarcity dependence)
-- Revenue generation (scarcity market sales fund expansion)
-- Story-telling capacity (enrollment of new members/businesses)
+The minimum needed to get the flywheel spinning. Must accomplish three purposes:
+1. **Start a flywheel** for internal economic advantage
+2. **Produce something immediately valuable to participants** (cheap food, reduced cost of living)
+3. **Produce something immediately valuable to states** (services they need at lower cost)
 
-| Industry | Why Core |
-|----------|----------|
-| **Food** | Most fundamental need. Reduces members' cost of living immediately. High-visibility demonstration of abundance. |
-| **Social Networks / Journalism / Media** | Tells the story. Enrolls people. Controls narrative. Without this, the movement can't grow. |
-| **Energy** | Powers everything else. Already approaching abundance via solar. |
-| **Core Manufacturing** | Robotics, solar panels, basic goods. The engine that makes other things cheap. |
+| Industry | Member Value | State Value | Why Core |
+|----------|--------------|-------------|----------|
+| **Food** | Reduces cost of living | Institutional food (schools, prisons, hospitals) | Most fundamental need. High visibility. |
+| **IT Services** | Shared infrastructure | Government SaaS, modernization, cyber | Near-zero marginal cost. Immediate state need. No logistics. |
+| **Energy** | Cheap power for members | PPAs for state buildings | Already cheapest. Established procurement. |
+| **Media / Journalism** | Community connection | (indirect—legitimacy, narrative) | Enrollment engine. Non-negotiable for growth. |
+
+See [[State Budget Analysis - What States Need]] for detailed research on state spending.
 
 **The media/story function is not optional.** The movement grows through enrollment. Enrollment requires:
 - People understanding what abundance means
@@ -28,6 +30,8 @@ The minimum needed to get the flywheel spinning. These industries provide:
 - People having a path to join
 
 This makes journalism/media as critical as food production.
+
+**State value proposition**: IT services, energy, and institutional food represent areas where states spend heavily, current vendors extract profit, and abundance can deliver dramatically lower costs. These are the door-openers.
 
 ### Second Tier
 
@@ -305,6 +309,21 @@ Media, education, and communication are not one thing. They serve different purp
 - How to use the two-tier pricing system
 - How to contribute within your circle
 - How to rotate roles effectively
+
+**Handling "fuzzy" behaviors**:
+
+Some behaviors are clear and repeatable (consent process, pricing use). Others are fuzzier (recognizing when you're drifting toward scarcity thinking, knowing when to block).
+
+**Proposed approach**: Core shared stories + keystone behaviors
+
+- **Shared stories**: Narratives that illustrate the principle in action. Not ideology—examples that show what the behavior looks like and why it matters. People create their own theory/narrative from the stories.
+- **Keystone behaviors**: The few observable actions that, if done consistently, indicate alignment. Not comprehensive—just the critical few that make the fuzzy concrete.
+
+Example: "Recognizing drift toward scarcity thinking"
+- **Shared story**: The Fagor failure—what it looked like when job security replaced mission commitment
+- **Keystone behavior**: In any decision discussion, ask "Does this increase or decrease abundance for members?" If you can't answer, pause.
+
+*[TO BE TESTED: Does this combination actually work for fuzzy behaviors? Need to pilot.]*
 
 ---
 
