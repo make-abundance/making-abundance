@@ -1,0 +1,5 @@
+Each thing that people want lives in one of 4 stages: scarce, artificially scarce, abundant, and free.
+* Scarce: there is not enough of it to go around. There is a large, non-artificial demand, and it can't be fully provided.
+* Artificially scarce: there is enough of the good or service to meet raw demand at an abundant or free level, but some business depends on it for profit. So they use marketing to expand demand and supply controls to constrain supply. They also use various business tactics to prevent competition, and competition is not profitable anyway, because the fundamental good is abundant.
+* Abundance: there is enough to go around. There may be some cost of production, which people can easily pay without concern. But people aren't willing to pay much more than this - and don't really have to. The market has already commoditized, and could be easily sated at the cost of production, if someone wanted to.
+* Free: someone has sufficiently reduced the cost of production that the good or service is generally provided for free, often as an add-on for something else.
