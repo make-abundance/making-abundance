@@ -295,25 +295,74 @@ Working Circles (operational decisions)
 
 ---
 
+## Lessons from Existing Implementations
+
+Research into Mondragon, Bosch, Patagonia, John Lewis, and sociocratic organizations reveals specific practices that protect against degeneration. See [[Lessons from Existing Implementations]] for full details.
+
+### Mandatory Practices (from successful cooperatives)
+
+**Job Rotation**
+- All successful cooperatives in research used job rotation, even as they grew
+- Democratizes expertise—prevents anyone from being "essential"
+- Improves communication across functions
+- Prevents informal elites from forming
+- **Requirement**: Every role rotates on a fixed schedule; no exceptions for "expertise"
+
+**Deep Socialization of New Members**
+- Mondragon's Fagor failed partly because younger members didn't absorb cooperative culture
+- Signing forms is insufficient—members must demonstrate understanding
+- **Requirement**:
+  - Sponsorship by existing member who is accountable for onboarding
+  - Structured education in principles and history
+  - Probationary period with assessment before full consent rights
+  - Ongoing cooperative education (not just onboarding)
+
+**Hiring for Values Alignment**
+- Mondragon's nepotistic hiring (children of members) created entitlement
+- Skills can be taught; values alignment is harder to change
+- **Requirement**: Explicit values assessment in recruitment; no automatic membership by relationship
+
+### Warning Signs of Degeneration
+
+Monitor for these patterns and trigger automatic review:
+
+| Warning Sign | What It Indicates |
+|--------------|-------------------|
+| Democratic spaces becoming "ritualized" or symbolic | Decision-making has moved elsewhere (informal elites) |
+| Rising absenteeism or disengagement | Members don't feel ownership; job security is primary motivation |
+| Two-tier membership emerging | Some have voice, others don't—erodes solidarity |
+| New members not absorbing culture | Socialization process failing |
+| "Job security" cited as primary benefit | Mission commitment has eroded |
+| Informal elites making de facto decisions | Formal governance being bypassed |
+| Participation declining over time | Complexity or exhaustion overwhelming members |
+
+**Response protocol**: When warning signs appear, trigger alignment audit (see Gradual Drift defenses) and investigate root cause before symptoms compound.
+
+### What Protects Against Acquisition (Proven)
+
+From Bosch (100+ years) and Patagonia:
+- **Separate voting rights from economic rights**: Bosch Foundation owns 94% of shares but 0% of votes
+- **Purpose trusts**: Patagonia's trust exists solely to prevent sale—that's its legal purpose
+- **Steward ownership**: Voting shares cannot be sold or inherited; passed to next generation of stewards
+
+These structures have survived multiple economic crises and leadership transitions.
+
+---
+
 ## What's Still Missing
 
 This model needs:
 
 1. **Specific legal templates** for non-acquirable structures in relevant jurisdictions
 2. **Size thresholds** for when to split/federate
-3. **Concrete examples** from existing implementations (what worked, what failed)
-4. **The bootstrap problem**: How do you start with enough resources/people before the abundance benefits kick in?
+3. ~~**Concrete examples** from existing implementations~~ → See [[Lessons from Existing Implementations]]
+4. **The bootstrap problem**: How do you start with enough resources/people before the abundance benefits kick in? → See [[Expansion Model and Bootstrap Strategy]]
 5. **Interface protocols**: Detailed rules for how the organization interacts with scarcity economy suppliers, customers, regulators
 
 ---
 
-## References to Research
+## References
 
+- [[Lessons from Existing Implementations]] - Detailed research on Mondragon, Bosch, Patagonia, John Lewis, sociocracy
 - Sociocracy: sociocracy.info, Sociocracy 3.0 (S3)
 - Steward Ownership: purpose-economy.org, Purpose Foundation
-- Mondragon Cooperative: largest cooperative federation, 80+ years
-- Bosch Foundation: foundation-owned corporation
-- Patagonia: recent conversion to purpose trust
-- John Lewis Partnership: employee-owned, 100+ years
-
-*[RESEARCH NEEDED: Detailed case studies of what protected these organizations and what threatened them]*
