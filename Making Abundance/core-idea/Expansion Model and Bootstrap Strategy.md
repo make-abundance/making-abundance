@@ -180,6 +180,83 @@ Once flywheel is spinning:
 
 ---
 
+## Media Governance: Preventing Capture
+
+Media/journalism is core tier—essential for enrollment and narrative. But this creates a capture risk: whoever controls the story has disproportionate influence. Here's how to prevent that.
+
+### Principle 1: Sociocratic Governance (Like Everything Else)
+
+Media circles operate under the same consent-based governance as all other circles:
+- No editorial hierarchy that can be captured
+- Decisions about direction/policy require consent
+- Any member can block decisions that harm the mission
+- Role rotation applies to editorial roles too
+
+This means no single editor or group can steer narrative without consent.
+
+### Principle 2: Highly Distributed Content Creation
+
+**Central group provides**:
+- The medium/platform (infrastructure)
+- Quality standards and requirements (what counts as good journalism)
+- Training and support for contributors
+- Coordination across distributed creators
+
+**Central group does NOT provide**:
+- The content itself
+- Editorial direction on what stories to tell
+- Approval/veto over individual pieces (beyond quality standards)
+
+Content comes from many contributors across the network. No bottleneck where capture could occur.
+
+### Principle 3: The Evergrey Model (Curiosity-Driven Journalism)
+
+Based on [The Evergrey](https://www.seattlemet.com/news-and-city-life/2018/01/anika-anand-and-monica-guzman-are-on-a-mission-to-build-community-in-seattle) in Seattle and similar publications:
+
+**What it is**:
+- "Conversational journalism"—engages readers, doesn't just broadcast
+- Focuses on community building, not page views
+- Helps people make sense of their world, not just consume information
+- Quote: "Journalism can do more than just source information. It can guide people through it, connect the dots, help different people and communities come together."
+
+**How it works**:
+1. **Start with curiosity**: What questions do people actually have?
+2. **Engage with core questions**: Don't assume you know what matters—ask
+3. **Research and provide good answers**: Depth over speed
+4. **Connect people to each other**: The goal is community, not audience
+
+**Why this resists capture**:
+- Content driven by reader questions, not editorial agenda
+- Success measured by community connection, not narrative dominance
+- Decentralized distribution (newsletters, social, events—not one channel)
+- No display advertising (removes advertiser capture risk)
+
+### Structural Safeguards
+
+| Risk | Defense |
+|------|---------|
+| Editorial capture | Role rotation for editorial positions; consent-based editorial policy |
+| Narrative monopoly | Multiple independent media circles, not one central outlet |
+| Platform capture | Decentralized distribution; no single channel dependence |
+| Advertiser capture | No display advertising; revenue from abundance network, not external advertisers |
+| Algorithm capture | Direct relationships (email, events) over algorithmic platforms |
+
+### What "Success" Looks Like
+
+The media function succeeds when:
+- New people understand what abundance means (enrollment)
+- Existing members feel connected to the mission (retention)
+- Questions and concerns surface and get addressed (transparency)
+- The movement's story is told by many voices, not one (distribution)
+
+It fails when:
+- One voice dominates the narrative
+- Content becomes propaganda rather than journalism
+- Reader questions are ignored in favor of predetermined messaging
+- The media circle accumulates disproportionate influence
+
+---
+
 ## Open Questions
 
 1. **Access to governors**: How do you get in the room? Who has relationships? What's the pitch that opens doors?
