@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "fe64f5afb992ef21",
+    "type": "split",
+    "children": [
+      {
+        "id": "139ce5b7fbbef754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b6cc4693920bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abundance is Here Now.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abundance is Here Now"
+            }
+          },
+          {
+            "id": "a28cc773a8952756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "core-idea/Gradual Abundance Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gradual Abundance Model"
+            }
+          },
+          {
+            "id": "3d870f0dab8fb293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "core-idea/The Core Abundance Engine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Core Abundance Engine"
+            }
+          },
+          {
+            "id": "1d7321dd26c4fd3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "core-idea/Kindness - The Unfair Competitive Edge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kindness - The Unfair Competitive Edge"
+            }
+          },
+          {
+            "id": "286519fd5f3e4459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "core-idea/Wealth vs Richness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wealth vs Richness"
+            }
+          },
+          {
+            "id": "330d159de91e1b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "core-idea/Kindness in Practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kindness in Practice"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "f388b5830e1ecb60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57baa125d3d53f31",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2013516f04420521",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7aacf060112c583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "850b6f0dac50534c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac73820edf7e8c52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "970ea0faf74bf997",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8e1852c98b5893b",
+    "type": "split",
+    "children": [
+      {
+        "id": "15118201a244220b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f6a9e9dbd756655",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "core-idea/Kindness in Practice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kindness in Practice"
+            }
+          },
+          {
+            "id": "c88a5d349ae62957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "core-idea/Kindness in Practice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kindness in Practice"
+            }
+          },
+          {
+            "id": "6179ef8b5be15a9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dee89dcc00ebd247",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "86c2d367e9f3fb37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "core-idea/Kindness in Practice.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kindness in Practice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "330d159de91e1b98",
+  "lastOpenFiles": [
+    "core-idea/The Core Abundance Engine.md",
+    "core-idea/Kindness in Practice.md",
+    "core-idea/Kindness - The Unfair Competitive Edge.md",
+    "core-idea/Wealth vs Richness.md",
+    "core-idea/Gradual Abundance Model.md",
+    "Abundance is Here Now.md",
+    "core-idea",
+    "examples"
+  ]
+}
