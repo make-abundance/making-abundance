@@ -1,8 +1,6 @@
-# The Argument, Clarified
-
 ## The Thesis
 
-The virtuous cycle of abundance is complete. The only remaining constraint on universal abundance is organizational—specifically, the concentration of ownership that enables profit extraction. Sociocratic governance structurally prevents this extraction by requiring consent from all affected parties.
+The virtuous cycle of abundance is complete. The only remaining constraint on universal abundance is organizational—specifically, the concentration of ownership that enables profit extraction by the few at the expense of the many. Sociocratic governance structurally prevents this extraction by requiring consent from all affected parties.
 
 ---
 

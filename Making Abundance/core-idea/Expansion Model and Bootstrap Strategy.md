@@ -1,5 +1,3 @@
-# Expansion Model and Bootstrap Strategy
-
 How the Abundance Movement grows from initial creation to self-sustaining flywheel.
 
 ---
@@ -78,8 +76,9 @@ Rather than building every capability from scratch, the movement grows by welcom
 
 ### Requirements for Joining
 
-- Convert to non-acquirable ownership structure (see [[Operational Defenses Against Scarcity Behavior]])
+- Transfer company ownership to the Abundance org (see [[Operational Defenses Against Scarcity Behavior]])
 - Commit to two-tier pricing
+- Convert employee agreements to match the Abundance Org (employees become contributing members); offer them a choice to exit before merger.
 - Participate in governance (consent rights come with obligations)
 - Undergo socialization process (understand the mission, not just sign papers)
 

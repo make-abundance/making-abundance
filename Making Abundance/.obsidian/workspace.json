@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core-idea/Kindness in Practice.md",
+                "file": "core-idea/Expansion Model and Bootstrap Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kindness in Practice"
+              "title": "Expansion Model and Bootstrap Strategy"
             }
           }
         ],
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core-idea/Kindness in Practice.md",
+                "file": "core-idea/Expansion Model and Bootstrap Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kindness in Practice"
+              "title": "Backlinks for Expansion Model and Bootstrap Strategy"
             }
           },
           {
@@ -200,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core-idea/Kindness in Practice.md",
+                "file": "core-idea/Expansion Model and Bootstrap Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kindness in Practice"
+              "title": "Outgoing links from Expansion Model and Bootstrap Strategy"
             }
           },
           {
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core-idea/Kindness in Practice.md",
+                "file": "core-idea/Expansion Model and Bootstrap Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kindness in Practice"
+              "title": "Outline of Expansion Model and Bootstrap Strategy"
             }
           }
         ]
@@ -272,12 +272,15 @@
   },
   "active": "330d159de91e1b98",
   "lastOpenFiles": [
+    "core-idea/Operational Defenses Against Scarcity Behavior.md",
+    "core-idea/The Argument Clarified.md",
     "core-idea/The Core Abundance Engine.md",
-    "core-idea/Kindness in Practice.md",
-    "core-idea/Kindness - The Unfair Competitive Edge.md",
     "core-idea/Wealth vs Richness.md",
-    "core-idea/Gradual Abundance Model.md",
     "Abundance is Here Now.md",
+    "core-idea/Kindness in Practice.md",
+    "core-idea/Expansion Model and Bootstrap Strategy.md",
+    "core-idea/Kindness - The Unfair Competitive Edge.md",
+    "core-idea/Gradual Abundance Model.md",
     "core-idea",
     "examples"
   ]
