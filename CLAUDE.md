@@ -185,10 +185,13 @@ Making Abundance/              # Obsidian vault root
 │   ├── The Spark.md           # Overview and purpose
 │   ├── Lenses.md              # Perspectives shaping the sparking work
 │   ├── The Contraction.md     # Naming the dread of artificial scarcity
+│   ├── The Pointing-Out Piece.md  # (open question) Step 2: guided opening
 │   ├── The Arbor.md           # Core design pattern: structure that reveals
 │   ├── The Sequence.md        # Six-step flow from feeling to understanding
 │   ├── The Campfire.md        # 90-minute AI-facilitated group experience
-│   └── AI as Arbor.md         # AI facilitation philosophy
+│   ├── The Sunset Scene.md    # (open question) Step 4: narrative vision
+│   ├── AI as Arbor.md         # AI facilitation philosophy
+│   └── Future - Conversational Arbor.md  # Navigation evolution roadmap
 examples/                      # Evidence base (outside vault)
 ```
 
