@@ -103,6 +103,16 @@ Track decision outcomes over time. Flag when decisions consistently benefit any 
 - Each product/service in the scarcity market has a target date for moving to abundance
 - Missing the target requires explicit re-authorization with objection opportunity
 
+**Rotation and Support for Scarcity-Facing Roles (The Special Circumstances Warning)**
+
+Iain M. Banks' Culture novels explore what happens to an abundance society at its boundary with scarcity civilizations. The Culture's "Special Circumstances" division handles this interface — and it's where the Culture's deepest moral failures occur. People who do scarcity-interface work are changed by it. They make compromises, develop harder edges, lose some of the openness that abundance enables. Banks spent entire novels (*Use of Weapons*, *Inversions*, *The Player of Games*) exploring this corrosion.
+
+The structural defenses above are necessary but not sufficient. The people working the scarcity interface will be under constant pressure to think in scarcity terms — to optimize for revenue, to compete, to see outsiders as customers rather than future members. This pressure is psychological, not just structural.
+
+- **Rotate scarcity-facing roles on fixed schedules.** No one stays in the scarcity interface permanently. Treat it like deployment, not career track.
+- **Debrief and support.** People rotating out of scarcity-facing work should have structured re-integration — not because they've done something wrong, but because sustained exposure to scarcity thinking is corrosive and they need time to release the contraction it builds.
+- **Watch for identification.** The clearest warning sign: someone in a scarcity-facing role starts defending scarcity logic as reasonable. "That's just how the market works." This is the contraction taking root. Surface it without blame.
+
 ---
 
 ### 5. Free Riders
