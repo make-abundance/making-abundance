@@ -36,7 +36,65 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 - Ask what perspective to take when relevant
 
 **Workflow**:
-- Commit after each step (each completed piece of work, not each file)
+- Commit at each significant idea — when a thought has landed, capture it. Don't batch. A commit is a save point, not a deliverable.
+- Work on `main` for ideas the circle has decided on or that refine existing decisions.
+- Work on `probably-wrong/` branches for exploration (see Branching below).
+
+## Branching: The Arbor in Practice
+
+This repo practices what it preaches. Branching is how we explore without contracting around being right.
+
+### When to branch
+
+Branch whenever you're exploring a direction that might be wrong — which is most of the time. If you're refining something already decided, stay on `main`. If you're exploring, branch. When in doubt, branch. There's no cost to being wrong on a branch.
+
+### Branch naming
+
+```
+probably-wrong/<circle>/<problem>/<solution-idea>
+```
+
+Examples:
+```
+probably-wrong/sparking/naming-the-dread/the-grip
+probably-wrong/sparking/naming-the-dread/the-brace
+probably-wrong/engine-room/bootstrap-sequence/energy-first
+probably-wrong/engine-room/bootstrap-sequence/it-services-first
+probably-wrong/campfire/ai-interface/voice-facilitation
+probably-wrong/campfire/ai-interface/text-on-screen
+```
+
+The name `probably-wrong` is load-bearing. It releases the contraction around being right. Everyone exploring knows their direction is probably wrong. That's the point — find what's useful, interesting, or challenging.
+
+### How branching works
+
+- **Fork freely.** Multiple branches for the same problem is abundance, not waste. Three people exploring three naming options is better than one person defending one.
+- **Commit often.** Each significant idea gets a commit. Branches are cheap. Captures are valuable.
+- **Cherry-pick, don't merge.** When a branch produces something good, cherry-pick the specific commits that matter. Merging whole branches is rare — it drags in the exploration noise. Pick the gems.
+- **The circle decides.** Eventually, the circle working on a problem will look at what all the branches produced and choose a direction — possibly by creating a new branch that cherry-picks from several. That chosen branch gets merged to `main`. The others get deleted.
+- **History tells the clean story.** On `main`, it looks like the circle got everything right. But the experience was freedom to explore. The "probably wrong" branches are the working space; `main` is the decided space.
+- **Nothing is truly lost.** Even deleted branches remain in git's reflog. And the cherry-picked commits carry their original context.
+
+### When to open a parallel Claude in a separate worktree
+
+Use `git worktree add` + a separate Claude Code session when:
+
+- **You want to explore two directions simultaneously.** One Claude explores "the grip" as a name, another explores "the brace." Both work freely in their own branch without stepping on each other.
+- **A subgroup is branching during a Campfire-style session.** Each subgroup gets its own worktree and its own Claude, exploring their direction with full freedom. Come back and compare.
+- **You want a critic who isn't critical.** Open a fresh Claude on a new branch, give it the current state, and ask it to challenge the ideas. It has no investment in the prior work — no contraction around defending what's been built. Pure fresh perspective.
+- **The exploration might be long or deep.** If a branch needs extended research, background processing, or multiple rounds of iteration, give it its own worktree so work continues on `main` unblocked.
+
+To set up a parallel exploration:
+```bash
+git worktree add ../making-abundance-explore probably-wrong/<circle>/<problem>/<idea>
+# Open a new Claude Code session in ../making-abundance-explore
+# Explore freely. Cherry-pick results back to main when ready.
+# Clean up: git worktree remove ../making-abundance-explore
+```
+
+### The arbor test for branches
+
+Before merging anything to `main`, ask: **"Does this open growing space or close it?"** A merge to main is a decision. Make it consciously.
 
 ## Current Phase
 
