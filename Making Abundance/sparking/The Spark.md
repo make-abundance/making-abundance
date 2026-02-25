@@ -63,14 +63,16 @@ See [[Lenses]] for the full set of perspectives shaping this work. We're combini
 
 - **Loch Kelly** — effortless mindfulness, the contraction, pointing-out instructions
 - **Paul O'Neill** — keystone commitments, the Alcoa safety transformation
-- **George Lucas** — mythic storytelling, making the impossible feel inevitable
+- **Iain M. Banks** — The Culture as destination, AI-as-arbor at civilization scale
 - **Tricia Broderick** — behavior-first change, meeting people where they are
 - **Arlo Belshee** — naming, smallest intervention, design patterns
 - **W. Edwards Deming** — drive out fear, quality emerges from conditions
 - **Buckminster Fuller** — build the new model that makes the old one obsolete
 - **Adrienne Maree Brown** — emergent strategy, fractals, small patterns become large ones
 - **Donella Meadows** — leverage points, paradigm shift as highest leverage
+- **Charles Stross** — Accelerando, the urgency of the transition we're riding
 - **Walt Disney** — imagineering, building experiences of the dream
+- **George Lucas** — mythic storytelling, making the impossible feel inevitable
 - **Gene Roddenberry** — showing the future to create the future
 
 ## How This Connects to the Engine Room

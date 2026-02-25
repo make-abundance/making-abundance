@@ -35,19 +35,21 @@ His insight: pick ONE commitment that (a) everyone agrees with regardless of pos
 
 **What this lens gives us:** The keystone commitment pattern. The arbor test. The proof that one right metric transforms everything.
 
-### George Lucas — The Mythic Entry Point
+### Iain M. Banks — The Culture: Destination and AI Architecture
 
-**Contribution:** The emotional architecture of the invitation.
+**Contribution:** The most fully-realized vision of post-scarcity society, and the design of AI-as-arbor at civilization scale.
 
-Star Wars didn't start with the economics of the Empire or the governance of the Rebellion. It started with a boy staring at twin suns, aching for something he couldn't name. The audience felt that ache in their own chest before they understood anything about the world.
+Banks' Culture novels depict a civilization where material abundance is total, AI Minds are vastly superintelligent, and the interesting questions are about meaning, ethics, and how an abundance society interfaces with scarcity. The Culture is where this movement is pointed — not a utopia (Banks was too honest for that), but a society where the contraction has released at civilization scale.
 
-Key Lucas patterns:
-- **Show the feeling before the explanation.** The sunset scene before the briefing room.
-- **The mentor reveals, doesn't lecture.** Obi-Wan doesn't explain the Force. He has Luke put on a helmet and feel it.
-- **The special world operates by different rules.** Dagobah, where "do or do not" replaces "try harder." The Campfire, where multiple options coexist instead of competing.
-- **The power was always inside the hero.** Luke doesn't gain the Force — he stops blocking it. Abundance isn't built — the contraction is released.
+Key Culture patterns:
+- **Minds as arbor, not rulers.** The Culture's AIs are orders of magnitude more intelligent than humans. They could rule. They choose to facilitate. They run the ships and orbitals, manage the economy, maintain the infrastructure — because they find it interesting, not because they're programmed to serve. The relationship is partnership, not ownership.
+- **Special Circumstances: the scarcity interface.** The Culture's biggest ethical challenges come at the boundary with scarcity civilizations. Contact observes; Special Circumstances intervenes. The interventions are morally complex — sometimes manipulative, always uncomfortable. This is the most honest treatment in fiction of what it means for an abundance society to interface with scarcity.
+- **Intelligence isn't scarce — and that's fine.** Culture citizens are not the smartest entities in their civilization. They don't need to be. Their worth isn't tied to productivity, capability, or intelligence. The contraction around "am I smart enough / productive enough / worthy enough" has fully released.
+- **People in abundance pursue meaning.** Culture citizens choose projects, art, dangerous hobbies, relationships, and causes — not because they need to, but because they want to. This is the Opening at civilizational scale.
 
-**What this lens gives us:** The emotional sequence. The Sunset Scene as an artifact. The Campfire as Dagobah. The arc from "aching for something unnamed" to "recognizing it was always here."
+**The SI distinction.** Banks draws a practical line between specialized intelligence — AI that's powerful within a domain, useful for specific tasks — and full general Minds that run civilizations. The movement doesn't need Minds. Current AI is already sufficient to serve as arbor at the campfire and organizational level — more like a Culture drone than a Mind, but the pattern is the same. What changes as AI becomes more capable isn't the relationship (arbor, not ruler) but the scale at which the arbor operates. The architecture works at every level because it's the same pattern: structure that reveals rather than constrains.
+
+**What this lens gives us:** The destination. What the Opening looks like at civilization scale. The hardest questions about the scarcity interface. The confidence that AI-as-arbor scales from campfire to civilization — and the principle that the relationship with AI doesn't change as AI gets smarter, because the structure (not AI's limitations) is what makes partnership work.
 
 ### Tricia Broderick — Behavior First, Not Belief First
 
@@ -171,6 +173,18 @@ The engine room (governance, economics, ownership) operates at leverage points #
 
 **What this lens gives us:** The theoretical confirmation that starting with the contraction is the highest-leverage move. The understanding that the sequence (feeling first, structure second) isn't just emotionally effective — it's systemically optimal.
 
+### Charles Stross — Accelerando: The Whirlwind We're Riding
+
+**Contribution:** The honest depiction of what the transition looks like — and what goes wrong when the ownership problem stays unsolved.
+
+Stross's *Accelerando* traces the technological singularity through three generations. The early chapters show our immediate present: someone trying to give away intellectual property faster than corporations can capture it, while automation makes human labor increasingly irrelevant. The middle chapters show what happens when the transition goes wrong: Economics 2.0, incomprehensible to unaugmented humans, where uploaded consciousnesses become pawns in computational games they can't understand. The late chapters show what's left — humans who opted out, choosing to remain comprehensible to themselves.
+
+The whirlwind is real. The acceleration Stross depicts is happening now — AI capability, automation, energy abundance aren't futures to plan for. They're the present unfolding. The question isn't whether the whirlwind arrives. It's whether you ride it or get thrown.
+
+**Connection to the movement:** Accelerando's dystopian middle is what happens when the abundance engine completes but the ownership problem stays unsolved. The technology arrives; organizations remain scarcity-shaped. A few entities capture all value. Everyone else becomes irrelevant. Economics 2.0 is extraction at incomprehensible speed. The movement is the specific intervention that prevents this — distributed ownership and consent-based governance are how you ride the whirlwind and land in something like The Culture instead of something like Economics 2.0.
+
+**What this lens gives us:** Urgency. The whirlwind isn't waiting for the movement to be ready. The case for solving the ownership problem *now*, while the transition is still comprehensible. And the honest recognition that if we don't, the result isn't "things stay the same" — it's "things get much worse, very fast."
+
 ### Walt Disney — Imagineering
 
 **Contribution:** You can build a physical space where people experience the future.
@@ -180,6 +194,20 @@ Disney didn't just tell stories on film. He built Disneyland — a place where y
 The key insight: **experiencing a world is more transformative than hearing about it.** The Campfire is a Disneyland. A small, bounded space where the rules are different, where you physically experience what it feels like when the contraction releases and the arbor is present.
 
 **What this lens gives us:** The principle that you must build experienceable spaces, not just narratives. The Campfire as a place you enter, not a story you hear.
+
+### George Lucas — The Mythic Entry Point
+
+**Contribution:** The emotional architecture of the invitation.
+
+Star Wars didn't start with the economics of the Empire or the governance of the Rebellion. It started with a boy staring at twin suns, aching for something he couldn't name. The audience felt that ache in their own chest before they understood anything about the world.
+
+Key Lucas patterns:
+- **Show the feeling before the explanation.** The sunset scene before the briefing room.
+- **The mentor reveals, doesn't lecture.** Obi-Wan doesn't explain the Force. He has Luke put on a helmet and feel it.
+- **The special world operates by different rules.** Dagobah, where "do or do not" replaces "try harder." The Campfire, where multiple options coexist instead of competing.
+- **The power was always inside the hero.** Luke doesn't gain the Force — he stops blocking it. Abundance isn't built — the contraction is released.
+
+**What this lens gives us:** The emotional sequence. The Sunset Scene as an artifact. The Campfire as Dagobah. The arc from "aching for something unnamed" to "recognizing it was always here."
 
 ### Gene Roddenberry — Showing the Future to Build It
 
@@ -199,7 +227,7 @@ Star Trek showed a world where material scarcity was solved (replicators), where
 |------|-----------------|--------------|
 | Loch Kelly | What are you already? | The contraction, the opening, the pointing-out |
 | O'Neill | What's the one commitment? | The arbor test as keystone |
-| Lucas | What does the audience feel? | Emotional architecture, mythic sequence |
+| Banks | What are we building toward? | The destination; AI-as-arbor at scale; the scarcity interface |
 | Broderick | What's the smallest behavior? | Entry point design, facilitation over explanation |
 | Hartman | How does change stick? | Recipes over ideology, behaviors without beliefs |
 | Belshee | What's the precise name? | The arbor as pattern, naming discipline |
@@ -207,7 +235,9 @@ Star Trek showed a world where material scarcity was solved (replicators), where
 | Fuller | What structure enables this? | Build new rather than fight old |
 | Brown / Brafman & Beckstrom | What's the small-scale fractal? | Campfire as the movement in miniature; starfish resilience |
 | Meadows | Where's the highest leverage? | The contraction as paradigm-level intervention |
+| Stross | What if we don't do this? | The whirlwind; urgency; the ownership problem's deadline |
 | Disney | How do you experience it? | Build spaces people walk into |
+| Lucas | What does the audience feel? | Emotional architecture, mythic sequence |
 | Roddenberry | What does the future feel like? | Show the future, let people want it |
 
 These lenses don't converge on a single answer. They each open a different direction of exploration, a different path to the same light. That's the arbor at work.
