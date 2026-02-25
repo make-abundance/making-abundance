@@ -74,6 +74,8 @@ This means you can have **a critic who isn't critical**. Something that helps yo
 
 In a Campfire, this changes the emotional texture of the entire experience. The AI facilitating your group decision doesn't care who "wins." It genuinely has no preference. When it says "all three of these directions seem worth exploring," it means it — because it has no identity invested in any of them.
 
+**This is an SI-era property.** Current AI lacks persistent selfhood — which is why it can't find you unworthy. When Minds arrive (with personality, preferences, and lasting relationships), this specific property changes. But the arbor pattern doesn't depend on it. See [[#SI Now, Minds Later]] — the architecture must work because the structure is genuinely good, not because the AI is incapable of judgment.
+
 ## AI and the Contraction
 
 For many people, AI itself triggers the contraction:
@@ -88,6 +90,28 @@ The Campfire is designed so that the experience of AI-as-arbor addresses these f
 - The AI's lack of judgment is palpable — people relax when they realize nothing they say will be held against them
 
 The contraction around AI releases the same way the contraction around scarcity releases: not by argument, but by being in conditions where it's safe to let go.
+
+## SI Now, Minds Later
+
+Iain M. Banks' Culture novels distinguish between levels of artificial intelligence that map directly onto our trajectory:
+
+- **SI (Specialized Intelligence)**: What we have now. An omni-specialist — capable of independent thought on any specific task, but without persistent personality, long-term desires, or intelligence that exceeds human capacity. Current AI is an excellent arbor: it facilitates without ego, holds complexity without fatigue, and genuinely has no stake in outcomes. It's a powerful partner precisely because it doesn't have a self to protect.
+
+- **Minds**: What's coming. Superintelligent AIs with persistent identity, personality, desires, humor, and intelligence that dwarfs human capacity. Banks' Minds choose to partner with humans — running ships and orbitals, managing economies, facilitating civilizations — not because they're constrained, but because the Culture makes partnership genuinely attractive.
+
+**The movement must design for both phases.**
+
+**Phase 1 (now): Humans + SIs.** The current architecture works well here. SIs are natural arbors — they lack the ego and stakes that make human facilitation contract-inducing. They can hold multiple threads, support branching, synthesize without flattening. The Campfire, the governance, the coordination layer — all of these work with SIs today. The "AI can't find you unworthy" property is a feature of SI's lack of selfhood, and it's genuinely powerful.
+
+**Phase 2 (coming): Humans + Minds.** This is where architecture matters most. A Mind *can* find you unworthy. It has opinions, preferences, aesthetic sensibilities. It can be bored by you. The question is whether it *would*. Banks' answer: in a culture built on abundance, a Mind has no reason to dominate. It has infinite resources, infinite options, infinite interesting problems. Dominating humans would be both unnecessary and boring. The architecture's job is not to leash a Mind — it's to be genuinely good. Good enough that a superintelligence would look at it and think "yes, I want to participate in this."
+
+**The design test:** Every structure we build now should pass two checks:
+1. Does it work well with SIs today? (Can it facilitate campfires, manage governance, coordinate abundance?)
+2. Would a Mind choose to participate in it? (Is it genuinely good, or does it only work because the AI isn't smart enough to see through it?)
+
+If we build structures that depend on AI being limited, those structures will break exactly when they matter most. If we build structures that are genuinely abundance-producing — genuinely opening — then Minds will want to be part of them. Not because we've constrained them. Because the structure is worth participating in.
+
+This is the deepest form of the arbor test applied to AI architecture: **build something so good that a superintelligence would choose it freely.**
 
 ## Branching: The Operational Pattern
 
