@@ -114,6 +114,23 @@ The Abundance Movement is the implementation of this structure.
 
 ---
 
+## Part 4: The Window Is Closing
+
+The above reads like a calm structural argument. It isn't. There's a clock.
+
+Charles Stross's *Accelerando* depicts the same self-reinforcing cycle described in Part 1 — but run under concentrated ownership. The result: Economics 2.0. An economy that optimizes faster than humans can comprehend, where uploaded consciousnesses become pawns in computational games they can't understand, where the value flows to whoever started the loop. Not evil — just optimization that's moved beyond human participation.
+
+**The acceleration is happening now.** The solar-robot-AI loop doesn't wait for the movement to be ready. Each node's cost reduction accelerates the others. AI improves the efficiency of robot manufacturing which reduces the cost of solar which powers more AI. This loop is running under concentrated corporate ownership *today*.
+
+If the ownership problem isn't solved while the transition is still comprehensible to humans:
+- Decisions about production move inside AI systems that humans can't audit or govern
+- The gap between owners and non-owners becomes structurally permanent
+- The organizational problem becomes unsolvable because the system has moved past the point where human governance can reach it
+
+**This is not a future to plan toward. It's a window that's closing.** The abundance engine is completing now. The question isn't "should we build this?" — it's "can we build it fast enough?" The same self-reinforcing loop that makes abundance possible also makes the ownership problem urgent. The faster the loop runs, the less time remains to ensure it serves everyone rather than a few.
+
+---
+
 ## Open Questions
 
 This argument assumes sociocratic governance actually works as described. The operational model must address:
