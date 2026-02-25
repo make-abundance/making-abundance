@@ -1,3 +1,9 @@
+---
+status: design
+area: sparking
+sequence-step: 3
+---
+
 # The Campfire
 
 ## What It Is

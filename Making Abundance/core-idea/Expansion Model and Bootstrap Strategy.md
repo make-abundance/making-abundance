@@ -1,3 +1,8 @@
+---
+status: written
+area: engine-room
+---
+
 How the Abundance Movement grows from initial creation to self-sustaining flywheel.
 
 ---

@@ -1,3 +1,8 @@
+---
+status: written
+area: sparking
+---
+
 # Lenses
 
 The perspectives shaping the sparking work. Each lens sees the same phenomenon — **the arbor pattern: structure that reveals rather than constrains** — from a different angle.

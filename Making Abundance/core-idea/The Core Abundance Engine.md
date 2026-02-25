@@ -1,3 +1,8 @@
+---
+status: written
+area: engine-room
+---
+
 There are only 4 raw constraints to an economy: human labor, human thinking, energy, and raw materials. We have now pushed each of them into abundance in at least one way, and these reinforce each other in a cycle.
 * Energy: solar power is now cheaper than fossil fuels. It doesn't require a central provider, so each energy consumer can now produce their own electricity at lower cost than they could buy it from the American grid. (assuming removal of regulatory frictions)
 * Human labor (Manufacturing): robotics replaced human labor a while ago. Human labor is still useful for figuring out how to make the first factory for a purpose, but that can then be automated.

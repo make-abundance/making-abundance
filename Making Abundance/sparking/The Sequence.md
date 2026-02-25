@@ -1,3 +1,8 @@
+---
+status: design
+area: sparking
+---
+
 # The Sequence
 
 ## Why Sequence Matters

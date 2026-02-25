@@ -1,3 +1,8 @@
+---
+status: written
+area: engine-room
+---
+
 Each thing that people want lives in one of 4 stages: scarce, artificially scarce, abundant, and free.
 * Scarce: there is not enough of it to go around. There is a large, non-artificial demand, and it can't be fully provided.
 * Artificially scarce: there is enough of the good or service to meet raw demand at an abundant or free level, but some business depends on it for profit. So they use marketing to expand demand and supply controls to constrain supply. They also use various business tactics to prevent competition, and competition is not profitable anyway, because the fundamental good is abundant.

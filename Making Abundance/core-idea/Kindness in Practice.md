@@ -1,3 +1,8 @@
+---
+status: written
+area: engine-room
+---
+
 We maintain kindness in practice by using sociocratic governance. There is no person in charge. There is no positional authority. No one has the power or ability to choose what another gets. The sociocracy replaces either hierarchy or democracy as the way to make decisions. Decisions are made on the basis of Consent, not power or Consensus.
 We also use funds to direct the company. People get to make charitable contributions, choosing where to invest in making things better for people.
 We also functionally pay everyone equally. Everyone gets $10k scarcity dollars per month to spend, with no ability to save any of it. You may spend it or not, as you see fit. There is no ability to buy goods; you simply are borrowing them (or renting them). Consumables are purchased. Scarcity dollars can be used to purchase any goods on the regular market (the company will pay USD), or purchase abundant goods at the abundant price (the company will debit your remaining monthly scarcity dollars - you are paying for just the scarcity still involved in that good or service).

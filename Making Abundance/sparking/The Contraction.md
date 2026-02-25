@@ -1,3 +1,9 @@
+---
+status: written
+area: sparking
+sequence-step: 1
+---
+
 # The Contraction
 
 ## What It Is

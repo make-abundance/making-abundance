@@ -1,3 +1,8 @@
+---
+status: written
+area: engine-room
+---
+
 Let's create a sociocracy that competes as a vertical provider. It offers 2-teir pricing:
 * Scarcity Market Price: the current market price, offered to anyone.
 * Abundance Price: the price offered to those who contribute to abundance. Based on the true cost of goods, without profit.

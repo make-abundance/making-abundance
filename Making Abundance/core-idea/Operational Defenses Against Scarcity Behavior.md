@@ -1,3 +1,8 @@
+---
+status: written
+area: engine-room
+---
+
 # Operational Defenses Against Scarcity Behavior
 
 The argument for abundance depends on governance that prevents extraction. This document identifies the attack vectors—ways scarcity behavior could infiltrate or capture the organization—and specifies mechanisms to defend against each.

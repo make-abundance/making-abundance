@@ -1,3 +1,8 @@
+---
+status: written
+area: sparking
+---
+
 # AI as Arbor
 
 ## The Reframe
