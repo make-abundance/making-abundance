@@ -5,7 +5,7 @@ area: engine-room
 
 # The Completed Cycle
 
-The virtuous cycle of abundance is complete. Every constraint on material production — energy, labor, thought, and raw materials — has been independently automated in at least one real-world implementation. These implementations reinforce each other: cheaper energy makes cheaper robots, which make cheaper solar panels, which make cheaper energy. AI orchestrates all of it.
+The virtuous cycle of abundance is complete. Every constraint on material production — energy, labor, thought, and raw materials — has been independently automated in at least one real-world implementation. These implementations reinforce each other: cheaper energy makes cheaper robots, which make cheaper solar panels, which make cheaper energy. ML orchestrates all of it — and SI is beginning to handle the tasks that require independent thought rather than pattern matching.
 
 This document provides the evidence. For the argument it supports, see [[The Argument Clarified]].
 
@@ -43,7 +43,7 @@ Solar energy is now the cheapest source of electricity ever produced by humanity
 - Oxford PV shipped first commercial perovskite-on-silicon tandem modules in September 2024 — producing **20% more energy** than standard silicon panels ([PV Tech](https://www.pv-tech.org/oxford-pv-ships-first-commercial-perovskite-tandem-modules/))
 - Theoretical limit for perovskite-silicon tandems: ~45%. Current records at 34.85% show substantial remaining headroom ([Fluxim](https://www.fluxim.com/research-blogs/perovskite-silicon-tandem-pv-record-updates))
 
-**What this means for the cycle:** Energy is the foundation. Every other node in the cycle — mining, manufacturing, AI computation, agriculture — runs on energy. When energy becomes effectively free (EROEI of 9-34x, with automated manufacturing of the panels themselves), every downstream cost drops with it.
+**What this means for the cycle:** Energy is the foundation. Every other node in the cycle — mining, manufacturing, ML/SI computation, agriculture — runs on energy. When energy becomes effectively free (EROEI of 9-34x, with automated manufacturing of the panels themselves), every downstream cost drops with it.
 
 ---
 
@@ -83,12 +83,12 @@ Food production has been independently automated through three parallel paths: d
 - **Qingfeng County, Henan Province**: 233 hectares of **fully unmanned** plowing, planting, management, and harvesting. Driverless harvesters and tractors, air-suction seeders, precision irrigation, and scouting drones — all operated through China's BeiDou satellite system. Irrigation labor fell **90%**. Wheat yield increased **20%** vs. conventional fields. Chemical use cut **20%**, absorption efficiency up **30%** ([Xinhua](https://english.news.cn/20250702/382bad9dd5f14879a228d6b96e9303df/c.html))
 - In 2024, Chinese agricultural drones completed work covering more than **173 million hectares**, generating a market worth $1.8 billion and employing nearly 500,000 people. DJI's drones now spray **one-third of all farmland in China**. In 2016, China had about 4,000 crop protection drones. By 2024: 173 million hectares of coverage ([CleanTechnica](https://cleantechnica.com/2025/04/25/third-of-chinas-farms-sprayed-by-drones-marking-agricultural-revolution/); [Ipsos](https://www.ipsos.com/en/chinas-agriculture-drone-revolution))
 
-**Dutch greenhouse agriculture (pre-AI):**
+**Dutch greenhouse agriculture (pre-ML):**
 - The Netherlands — a small, densely populated country — is the world's **#2 food exporter** at 123.8 billion euros in 2023 ([CBS Netherlands](https://www.cbs.nl/en-gb/news/2024/10/dutch-agricultural-exports-worth-nearly-124-billion-euros-in-2023))
 - Each acre of greenhouse yields **10x** as much lettuce as outdoor acres ([National Geographic](https://www.nationalgeographic.com/magazine/article/holland-agriculture-sustainable-farming))
 - Dutch greenhouses produce **80 kg of tomatoes per square meter** vs. 4 kg/sqm in Spanish fields — a **20x improvement**. With artificial lighting, over 90 kg/sqm ([National Geographic](https://www.nationalgeographic.com/magazine/article/holland-agriculture-sustainable-farming); [What Is Missing](https://www.whatismissing.org/content/the-netherlands-most-efficient-greenhouse-agriculture))
 - **97% reduction** in chemical pesticide use. Water dependence reduced by up to **90%** since 2000 ([National Geographic](https://www.nationalgeographic.com/magazine/article/holland-agriculture-sustainable-farming))
-- This was achieved through engineering and horticulture, largely **before AI and drones**. It demonstrates that food abundance is achievable through structure and technique alone.
+- This was achieved through engineering and horticulture, largely **before ML and drones**. It demonstrates that food abundance is achievable through structure and technique alone.
 
 **Vertical farming (fully automated):**
 - **Stacked Farm** (Gold Coast, Australia): 6,500 sqm facility, complete seed-to-pack automation with **no human intervention**, 20 vertical growing levels. Over **400 tonnes** of herbs and leafy greens per year with **6 employees** for the entire facility. Full crop growth in **16 days**. 95% less water, zero pesticides. Planning a $150 million expansion at Melbourne Airport ([InnovationAus](https://www.innovationaus.com/stacked-farm-is-pioneering-fully-automated-vertical-farming/))
@@ -98,51 +98,51 @@ Food production has been independently automated through three parallel paths: d
 - **John Deere** committed to offering a complete fleet of autonomous equipment by **2030**, handling a full farming season from seeding to harvest ([CNBC](https://www.cnbc.com/2022/10/02/how-deere-plans-to-build-a-world-of-fully-autonomous-farming-by-2030.html))
 
 **Cost impact:**
-- AI + Precision Agriculture could reduce worldwide farming operating costs by **22%** at 75% adoption. US corn costs down **26%**, soybeans **31%**, wheat **31%** ([ARK Invest](https://www.ark-invest.com/articles/analyst-research/will-the-convergence-between-artificial-intelligence-and-precision-agriculture-lower-farming-costs))
+- ML + Precision Agriculture could reduce worldwide farming operating costs by **22%** at 75% adoption. US corn costs down **26%**, soybeans **31%**, wheat **31%** ([ARK Invest](https://www.ark-invest.com/articles/analyst-research/will-the-convergence-between-artificial-intelligence-and-precision-agriculture-lower-farming-costs))
 - Automated spraying reduces herbicide costs by **80%**. Autonomous technology could cut labor costs **85%** ([ARK Invest](https://www.ark-invest.com/articles/analyst-research/will-the-convergence-between-artificial-intelligence-and-precision-agriculture-lower-farming-costs))
 
 **What this means for the cycle:** Food is the most fundamental human need and the most emotionally compelling proof of abundance. When food production costs drop 22-85% through automation, and when a single 6,500 sqm facility staffed by 6 people produces 400 tonnes per year of produce, food scarcity becomes clearly artificial. Agriculture also consumes energy (addressed by Node 1) and uses drones/robots (manufactured by Node 2), making it a direct beneficiary of the other nodes.
 
 ---
 
-### 4. Thought: AI Orchestrating Autonomous Systems
+### 4. Thought: ML and SI Orchestrating Autonomous Systems
 
-AI is the connective tissue of the cycle. It doesn't just replace human thinking — it orchestrates the other four nodes, making each one more efficient and connecting them into a coherent system.
+ML and SI are the connective tissue of the cycle. They don't just replace human thinking — they orchestrate the other four nodes, making each one more efficient and connecting them into a coherent system. Most current implementations are ML (pattern matching, optimization, prediction). Some are crossing into SI territory (autonomous agents that plan, negotiate, and make independent decisions).
 
-**Managing dark factories:**
-- Xiaomi's **Hyper Intelligent Manufacturing Platform (HyperIMP)** continuously analyzes operational data, predicts issues, and initiates corrective actions without human intervention ([New Atlas](https://newatlas.com/robotics/xiaomi-dark-robotic-factory))
-- **Siemens Industrial Copilot** introduced AI agents that autonomously execute complex engineering tasks — automatically generating and modifying project elements, representing a shift from AI assistants to autonomous agents that proactively execute entire processes ([Siemens](https://press.siemens.com/global/en/pressrelease/siemens-introduces-ai-agents-industrial-automation))
-- AI-native factories deliver **2-3x productivity improvement**, **99% reduction in defects**, and **30% decrease in energy consumption** ([Bernard Marr](https://bernardmarr.com/the-6-defining-manufacturing-trends-of-2026/))
+**Managing dark factories (ML):**
+- Xiaomi's **Hyper Intelligent Manufacturing Platform (HyperIMP)** continuously analyzes operational data, predicts issues, and initiates corrective actions without human intervention — classic ML optimization ([New Atlas](https://newatlas.com/robotics/xiaomi-dark-robotic-factory))
+- **Siemens Industrial Copilot** introduced agents that autonomously execute complex engineering tasks — automatically generating and modifying project elements. This crosses from ML into SI territory: not just pattern-matching but independent task execution ([Siemens](https://press.siemens.com/global/en/pressrelease/siemens-introduces-ai-agents-industrial-automation))
+- ML-native factories deliver **2-3x productivity improvement**, **99% reduction in defects**, and **30% decrease in energy consumption** ([Bernard Marr](https://bernardmarr.com/the-6-defining-manufacturing-trends-of-2026/))
 
-**Managing autonomous vehicle fleets:**
+**Managing autonomous vehicle fleets (ML):**
 - **Waymo**: 14 million paid trips in 2025 with ~2,500 robotaxis, targeting **1 million rides per week** by end of 2026 ([Waymo](https://waymo.com/blog/2025/12/2025-year-in-review); [Electrek](https://electrek.co/2026/02/12/waymo-begins-fully-autonomous-ops-with-6th-gen-driver-targets-1m-weekly-rides/))
-- **Rio Tinto's autonomous fleet**: AI manages 300+ autonomous haul trucks across the Pilbara, controlled from a single operations centre **1,500 km away** in Perth ([Rio Tinto](https://www.riotinto.com/en/operations/australia/iron-ore-western-australia))
-- **John Deere See & Spray**: AI-driven precision sprayer covered **5 million acres** in 2025, saving farmers **31 million gallons** of herbicide mix ([Robotics and Automation News](https://roboticsandautomationnews.com/2025/11/05/john-deere-customers-use-autonomous-see-spray-technology-across-5-million-acres-in-2025/96266/))
+- **Rio Tinto's autonomous fleet**: ML manages 300+ autonomous haul trucks across the Pilbara, controlled from a single operations centre **1,500 km away** in Perth ([Rio Tinto](https://www.riotinto.com/en/operations/australia/iron-ore-western-australia))
+- **John Deere See & Spray**: ML-driven precision sprayer covered **5 million acres** in 2025, saving farmers **31 million gallons** of herbicide mix ([Robotics and Automation News](https://roboticsandautomationnews.com/2025/11/05/john-deere-customers-use-autonomous-see-spray-technology-across-5-million-acres-in-2025/96266/))
 
-**Discovering new materials:**
+**Discovering new materials (ML):**
 - Google DeepMind's **GNoME** discovered **2.2 million new crystal structures** — equivalent to ~800 years' worth of knowledge. 380,000 are the most stable candidates for experimental synthesis. 736 have already been independently created in labs ([Nature](https://www.nature.com/articles/s41586-023-06735-9); [DeepMind](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/))
 - **Microsoft** screened 32 million candidates and identified a new battery material in **80 hours** — the entire project from computation to testing took less than nine months ([Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/quantum/2024/01/09/unlocking-a-new-era-for-scientific-discovery-with-ai-how-microsofts-ai-screened-over-32-million-candidates-to-find-a-better-battery/))
-- **Berkeley Lab's A-Lab**: robotics and AI synthesized and tested **41 novel materials without human intervention**, reaching a **71% success rate** in synthesizing AI-predicted materials ([Cypris AI](https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d))
+- **Berkeley Lab's A-Lab**: robotics and ML synthesized and tested **41 novel materials without human intervention**, reaching a **71% success rate** in synthesizing ML-predicted materials ([Cypris AI](https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d))
 
-**Designing better solar cells:**
-- **Karlsruhe Institute of Technology** used AI to find new molecules that increase perovskite solar cell efficiency. With only **150 targeted experiments** (instead of hundreds of thousands), they achieved a two-percentage-point efficiency increase. The ML algorithm selected 24 most promising candidates from over **1 million molecules** ([Science Daily](https://www.sciencedaily.com/releases/2025/01/250123182337.htm))
+**Designing better solar cells (ML):**
+- **Karlsruhe Institute of Technology** used ML to find new molecules that increase perovskite solar cell efficiency. With only **150 targeted experiments** (instead of hundreds of thousands), they achieved a two-percentage-point efficiency increase. The ML algorithm selected 24 most promising candidates from over **1 million molecules** ([Science Daily](https://www.sciencedaily.com/releases/2025/01/250123182337.htm))
 
-**AI training AI:**
+**ML training ML:**
 - DeepSeek-R1-Zero was trained exclusively through reinforcement learning without fine-tuning on curated datasets. Distilled versions beat many larger open-source models on reasoning benchmarks ([CNBC](https://www.cnbc.com/2025/02/21/deepseek-trained-ai-model-using-distillation-now-a-disruptive-force.html))
 - Meta uses synthetic data generation for the majority of their supervised fine-tuning examples for Llama ([Meta AI Blog](https://ai.meta.com/blog/meta-llama-3-1/))
 
-**Designing robots:**
-- UC Berkeley developed an AI-driven framework to optimize and automate the design of complex truss robots, producing prototypes including a quadruped robot, a lobster-inspired walker, and a tentacle-like actuator ([UC Berkeley Engineering](https://engineering.berkeley.edu/news/2025/09/mighty-morphing-robots/))
+**Designing robots (ML → SI):**
+- UC Berkeley developed an ML-driven framework to optimize and automate the design of complex truss robots, producing prototypes including a quadruped robot, a lobster-inspired walker, and a tentacle-like actuator ([UC Berkeley Engineering](https://engineering.berkeley.edu/news/2025/09/mighty-morphing-robots/))
 - **Text2Robot Framework** converts user text descriptions into physical quadrupedal robot designs **within minutes** ([arXiv](https://arxiv.org/html/2406.19963v3))
 
 **Digital twins — simulating before building:**
 - BMW uses NVIDIA Omniverse to design end-to-end digital twins of entire factories spanning over **1 million square meters**. Result: **30% more efficient** planning processes ([NVIDIA Blog](https://blogs.nvidia.com/blog/nvidia-bmw-factory-future/))
 
-**Supply chain orchestration:**
-- Enterprises are deploying AI agents for procurement, logistics, manufacturing, quality, and finance — agents that communicate and negotiate with each other. Decision latency reduced from **days to seconds** ([Prolifics](https://prolifics.com/usa/resource-center/blog/agentic-ai-in-supply-chain); [Dataiku](https://www.dataiku.com/stories/blog/supply-chain-ai-trends-2026))
-- AI-driven supply chain solutions achieve **15-20% reductions** in logistics costs and **10-35% inventory decreases** ([Stfalcon](https://stfalcon.com/en/blog/post/ultimate-guide-to-ai-in-logistics))
+**Supply chain orchestration (ML → SI):**
+- Enterprises are deploying SI agents for procurement, logistics, manufacturing, quality, and finance — agents that communicate and negotiate with each other. This is SI territory: independent decision-making, not just pattern matching. Decision latency reduced from **days to seconds** ([Prolifics](https://prolifics.com/usa/resource-center/blog/agentic-ai-in-supply-chain); [Dataiku](https://www.dataiku.com/stories/blog/supply-chain-ai-trends-2026))
+- ML-driven supply chain solutions achieve **15-20% reductions** in logistics costs and **10-35% inventory decreases** ([Stfalcon](https://stfalcon.com/en/blog/post/ultimate-guide-to-ai-in-logistics))
 
-**What this means for the cycle:** AI is the only node that improves *all* other nodes simultaneously. It makes solar panels more efficient, factories more productive, farms more precise, and mining more targeted. It also trains itself (synthetic data, distillation) and designs new physical systems (robots, materials, solar cells). Unlike the other nodes, AI's contribution is multiplicative — it doesn't just add capacity, it increases the efficiency of everything else.
+**What this means for the cycle:** ML/SI is the only node that improves *all* other nodes simultaneously. ML makes solar panels more efficient, factories more productive, farms more precise, and mining more targeted. It also trains itself (synthetic data, distillation) and designs new physical systems (robots, materials, solar cells). SI adds the capacity for independent thought — inventing, negotiating, adapting to novel situations. Unlike the other nodes, this node's contribution is multiplicative — it doesn't just add capacity, it increases the efficiency of everything else.
 
 ---
 
@@ -151,7 +151,7 @@ AI is the connective tissue of the cycle. It doesn't just replace human thinking
 Raw materials are extracted from the earth (mining) and recovered from waste (urban mining, recycling). Both are now significantly automated.
 
 **Autonomous mining at scale:**
-- **Rio Tinto's Pilbara** (Western Australia): The most integrated autonomous mining system in the world. From a single operations centre **1,500 km away** in Perth, AI controls:
+- **Rio Tinto's Pilbara** (Western Australia): The most integrated autonomous mining system in the world. From a single operations centre **1,500 km away** in Perth, ML controls:
   - **AutoHaul**: world's first fully autonomous heavy-haul rail network. Each train hauls **28,000 tonnes** of iron ore across **800 km** round-trips. Averages **34 autonomous trains per day**. Over **33 million autonomous kilometres** since 2018 with **98%+ mission completion**. Annual capacity rose from 340 to **360 million tonnes** through automation ([Railway Gazette](https://www.railwaygazette.com/australasia/rio-tinto-completes-autohaul-autonomous-train-project/47822.article); [Hitachi](https://www.hitachi.com.au/social-innovation/Rio-Tinto-fully-autonomous-train-technology.html))
   - **300+ autonomous Komatsu haul trucks**: ~90% of fleet is autonomous. Each truck operates **700 more hours/year** than crewed trucks, with **15% lower unit costs**. **Zero injuries** since deployment began in 2008 ([International Mining](https://im-mining.com/2024/08/12/komatsu-and-rio-tinto-herald-delivery-of-300th-autonomous-haul-truck/); [Rio Tinto](https://www.riotinto.com/news/releases/AHS-one-billion-tonne-milestone))
   - **40 autonomous production drills** across 7 sites, with **15% more availability** than conventional drills ([Rio Tinto](https://www.riotinto.com/en/operations/australia/iron-ore-western-australia))
@@ -160,8 +160,8 @@ Raw materials are extracted from the earth (mining) and recovered from waste (ur
 - **Caterpillar**: 690 autonomous trucks deployed, surpassed **8.6 billion tonnes** autonomously hauled with **no reported injuries**. First autonomous quarry operations launched November 2024 ([Caterpillar](https://www.cat.com/en_US/news/machine-press-releases/milestone-caterpillar-surpasses-5-billion-tonnes-of-material-autonomously-hauled.html))
 - **BHP**: 360 autonomous trucks globally, **90% reduction in heavy vehicle safety risks** at autonomous sites ([BHP](https://www.bhp.com/news/articles/2023/06/south-flank-completes-autonomous-haulage); [Resources Review](https://resourcesreview.com.au/product_news/bhps-autonomous-success-story-continues/))
 
-**AI-driven mineral discovery:**
-- **KoBold Metals** used AI to discover a massive copper deposit in Zambia — the largest copper discovery in over a decade — completely missed by traditional exploration methods. Expected to produce **300,000 tonnes of copper annually** by 2030 ([TechCrunch](https://techcrunch.com/2025/01/02/kobold-used-ai-to-find-copper-now-investors-are-piling-in-to-the-tune-of-537m/))
+**ML-driven mineral discovery:**
+- **KoBold Metals** used ML to discover a massive copper deposit in Zambia — the largest copper discovery in over a decade — completely missed by traditional exploration methods. Expected to produce **300,000 tonnes of copper annually** by 2030 ([TechCrunch](https://techcrunch.com/2025/01/02/kobold-used-ai-to-find-copper-now-investors-are-piling-in-to-the-tune-of-537m/))
 
 **Urban mining and e-waste recovery:**
 - One tonne of e-waste contains **40-800x more gold** than the equivalent weight of mined gold ore ([ACS](https://pubs.acs.org/doi/10.1021/acs.est.7b04909))
@@ -170,13 +170,13 @@ Raw materials are extracted from the earth (mining) and recovered from waste (ur
 - **Redwood Materials** recovers **95%+ of critical elements** (lithium, cobalt, nickel, copper) from end-of-life batteries, processing over **20 GWh** of lithium-ion batteries per year. New $3.5 billion South Carolina facility designed to run on **100% clean energy** ([Redwood Materials](https://www.redwoodmaterials.com/resources/how-battery-recycling-works/))
 
 **Automated recycling:**
-- **AMP Robotics**: AI has guided sortation of **2.5+ million tonnes** of recyclables. Individual robots achieve **80-120 picks per minute** with **99% accuracy**, classifying 100+ categories of materials. Over 400 units deployed ([AMP Robotics](https://ampsortation.com/articles/amp-robotics-achieves-data-milestones-and-recycling-automation-breakthrough))
+- **AMP Robotics**: ML has guided sortation of **2.5+ million tonnes** of recyclables. Individual robots achieve **80-120 picks per minute** with **99% accuracy**, classifying 100+ categories of materials. Over 400 units deployed ([AMP Robotics](https://ampsortation.com/articles/amp-robotics-achieves-data-milestones-and-recycling-automation-breakthrough))
 - **Apple's Daisy robot**: disassembles iPhones in **11 seconds**, processing **1.2 million iPhones per year** per unit. Over 11,000 kg of cobalt recovered since 2019 ([Apple Newsroom](https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/); [Resource Recycling](https://resource-recycling.com/e-scrap/2024/06/13/apples-iphone-recycling-robot-shifts-gears/))
 
 **Waste-to-energy (Denmark):**
 - **Amager Bakke** (Copenhagen): Processes **400,000+ tonnes** of non-recyclable waste per year. Delivers electricity to 550,000 people and district heating to 140,000 households. Recovers **~10,000 tonnes of metal** per year from bottom ash. Energy efficiency of **107%** ([Power Technology](https://www.power-technology.com/projects/amager-bakke-waste-energy-plant/); [Ramboll](https://www.ramboll.com/en-us/projects/energy/state-of-the-art-waste-to-energy-facility-in-copenhagen))
 
-**What this means for the cycle:** Raw materials are the most often cited objection to abundance — "but what about finite resources?" The answer is threefold: (1) autonomous mining dramatically reduces extraction costs, (2) urban mining recovers materials from the waste stream at a fraction of virgin mining costs, and (3) AI discovers new materials and substitute compounds that reduce dependency on scarce elements. The loop closes: energy powers extraction, which provides materials for manufacturing, which builds robots and solar panels, which produce more energy and enable more extraction.
+**What this means for the cycle:** Raw materials are the most often cited objection to abundance — "but what about finite resources?" The answer is threefold: (1) autonomous mining dramatically reduces extraction costs, (2) urban mining recovers materials from the waste stream at a fraction of virgin mining costs, and (3) ML discovers new materials and substitute compounds that reduce dependency on scarce elements. The loop closes: energy powers extraction, which provides materials for manufacturing, which builds robots and solar panels, which produce more energy and enable more extraction.
 
 ---
 
@@ -211,8 +211,8 @@ The five nodes don't just coexist — they actively reduce each other's costs in
         │   & FOOD     │
         └──────────────┘
 
-     AI orchestrates all nodes, and is powered by the energy node.
-     AI also improves every node's efficiency simultaneously.
+     ML/SI orchestrates all nodes, and is powered by the energy node.
+     ML/SI also improves every node's efficiency simultaneously.
 ```
 
 **Specific reinforcing dynamics:**
@@ -222,10 +222,10 @@ The five nodes don't just coexist — they actively reduce each other's costs in
 | Cheaper energy → cheaper robot operation | Factory energy costs drop, 24/7 operation becomes cheaper | Solar at $0.033/kWh in China, where most robots are built |
 | Cheaper robots → cheaper solar panel manufacturing | Tongwei's unmanned factories cut energy use 30%, boost efficiency 161% | [Tongwei](https://en.tongwei.com/news/detail/167302.html) |
 | Cheaper solar panels → cheaper energy | Module prices fell 99.8% since 1977, still falling | [Swanson's Law](https://en.wikipedia.org/wiki/Swanson%27s_law) |
-| AI → better solar cells | AI selected 24 promising molecules from 1M candidates, boosting efficiency | [KIT](https://www.sciencedaily.com/releases/2025/01/250123182337.htm) |
-| AI → more efficient mining | KoBold found largest copper deposit in a decade, missed by human geologists | [TechCrunch](https://techcrunch.com/2025/01/02/kobold-used-ai-to-find-copper-now-investors-are-piling-in-to-the-tune-of-537m/) |
-| AI → more efficient factories | 2-3x productivity, 99% defect reduction, 30% energy reduction | [Bernard Marr](https://bernardmarr.com/the-6-defining-manufacturing-trends-of-2026/) |
-| AI → more efficient agriculture | 22% operating cost reduction, 85% labor cost reduction | [ARK Invest](https://www.ark-invest.com/articles/analyst-research/will-the-convergence-between-artificial-intelligence-and-precision-agriculture-lower-farming-costs) |
+| ML → better solar cells | ML selected 24 promising molecules from 1M candidates, boosting efficiency | [KIT](https://www.sciencedaily.com/releases/2025/01/250123182337.htm) |
+| ML → more efficient mining | KoBold found largest copper deposit in a decade, missed by human geologists | [TechCrunch](https://techcrunch.com/2025/01/02/kobold-used-ai-to-find-copper-now-investors-are-piling-in-to-the-tune-of-537m/) |
+| ML → more efficient factories | 2-3x productivity, 99% defect reduction, 30% energy reduction | [Bernard Marr](https://bernardmarr.com/the-6-defining-manufacturing-trends-of-2026/) |
+| ML → more efficient agriculture | 22% operating cost reduction, 85% labor cost reduction | [ARK Invest](https://www.ark-invest.com/articles/analyst-research/will-the-convergence-between-artificial-intelligence-and-precision-agriculture-lower-farming-costs) |
 | Cheaper materials → cheaper everything | Autonomous mining: 15% lower costs, 700 more hours/year per truck | [Rio Tinto](https://www.riotinto.com/news/releases/AHS-one-billion-tonne-milestone) |
 | Urban mining → cheaper materials | Gold from e-waste: 21x cheaper than virgin mining | [ACS](https://pubs.acs.org/doi/10.1021/acs.est.7b04909) |
 
@@ -368,7 +368,7 @@ What it does:
 Honesty is load-bearing. Here are the real gaps:
 
 ### Integration across nodes
-No single system currently manages a complete raw-materials-to-finished-goods chain autonomously. Each node works independently (dark factories, autonomous mines, AI systems, solar farms). The gap is **connecting the stages** — the interfaces between mining, refining, component manufacturing, assembly, and distribution still require human decision-making and physical intervention at the boundaries.
+No single system currently manages a complete raw-materials-to-finished-goods chain autonomously. Each node works independently (dark factories, autonomous mines, ML/SI systems, solar farms). The gap is **connecting the stages** — the interfaces between mining, refining, component manufacturing, assembly, and distribution still require human decision-making and physical intervention at the boundaries.
 
 ### Factory-building factories
 No system autonomously constructs an entire new factory from scratch. Modular construction and prefab facilities are the closest analogues. Building the factories that build things still requires significant human involvement.

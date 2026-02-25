@@ -14,7 +14,7 @@ The virtuous cycle of abundance is complete. The only remaining constraint on un
 There are four raw constraints on economic production:
 1. **Energy**
 2. **Human labor** (physical work)
-3. **Human thought** (mental work)
+3. **Human thought** (mental work — now handled by ML and SI)
 4. **Raw materials**
 
 Each of these has now achieved abundance in at least one implementation, and they reduce each other's costs in a self-reinforcing loop.
@@ -26,7 +26,7 @@ Each of these has now achieved abundance in at least one implementation, and the
 | Energy | Solar cheaper than fossil fuels globally | $0.043/kWh global average (2024); 41% cheaper than cheapest fossil fuel |
 | Labor (manufacturing) | Robots building robots; dark factories | FANUC: 50 robots/day, unsupervised 30 days. Xiaomi: 10M phones/year, zero humans |
 | Labor (agriculture) | Fully autonomous farms | Henan: 233 hectares, zero humans, costs down 40% |
-| Thought | AI managing autonomous systems | AI trains AI; manages dark factories; designs new materials |
+| Thought | ML/SI managing autonomous systems | ML trains ML; manages dark factories; designs new materials |
 | Raw materials | Autonomous extraction at scale | Rio Tinto: 50 crewless trains, 28,000 tonnes each. Full-process autonomous mining operational |
 
 See: [[Summary - The Completed Cycle]] for detailed sourcing.
@@ -38,12 +38,12 @@ Solar energy → powers → Robot factories → build → More robots + Solar pa
      ↑                                                      ↓
      └──────────── extract and process ←──── Raw materials ←┘
 
-AI orchestrates all nodes, and is powered by the energy node.
+ML/SI orchestrates all nodes, and is powered by the energy node.
 ```
 
 Each node's cost reduction accelerates the others:
 - Cheaper energy → cheaper robot operation → cheaper manufacturing → cheaper solar panels → cheaper energy
-- AI improves efficiency at each node → compounds the effect
+- ML/SI improves efficiency at each node → compounds the effect
 
 This is not a future state. It is operational now, primarily in China, with implementations elsewhere.
 

@@ -33,7 +33,7 @@ The reader has just recognized the contraction (Step 1). They know the feeling n
 
 ## Open Questions
 
-- Can a written piece actually create the opening, or does it require a facilitator (even an AI one)?
+- Can a written piece actually create the opening, or does it require a facilitator (even an SI one)?
 - What's the right voice? First person? Second person? The Contraction uses third-person observation ("It's the tightness in your jaw..."). Should this shift to direct address?
 - Does the piece stand alone, or does it need to be read immediately after The Contraction?
 - Is there a risk of the opening feeling trivial if it's this short? Or is brevity the point — "you can do this in thirty seconds, anytime"?

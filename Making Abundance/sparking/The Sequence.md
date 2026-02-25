@@ -47,9 +47,9 @@ This follows from multiple lenses:
 
 ### Step 3: The Campfire
 
-**Format:** 90-minute facilitated group experience. 8-12 people. AI-facilitated. See [[The Campfire]] for full design.
+**Format:** 90-minute facilitated group experience. 8-12 people. SI-facilitated. See [[The Campfire]] for full design.
 
-**Purpose:** Experience the arbor in a group. Feel what happens when a room full of people set down the contraction simultaneously. Make a real decision using the Decider Protocol. Discover that multiple paths can coexist. Experience AI as arbor — structure that enables, not controls.
+**Purpose:** Experience the arbor in a group. Feel what happens when a room full of people set down the contraction simultaneously. Make a real decision using the Decider Protocol. Discover that multiple paths can coexist. Experience SI as arbor — structure that enables, not controls.
 
 **Why it comes third:** Steps 1 and 2 are individual. Step 3 is the first group experience. The reader has felt the contraction and the opening alone — now they discover it's possible with others. This is where "I can set it down" becomes "we can set it down."
 
@@ -61,7 +61,7 @@ This follows from multiple lenses:
 
 **Format:** Short story / narrative piece. 2-4 pages.
 
-**Purpose:** Show a day in a community that lives in the arbor. Not utopia — but the absence of the contraction at community scale. Problems without dread. Someone trips, someone catches them, nobody keeps score. Decisions flow through consent. AI weaves through daily life as structure, not surveillance. Everything is simple, curious, open-hearted.
+**Purpose:** Show a day in a community that lives in the arbor. Not utopia — but the absence of the contraction at community scale. Problems without dread. Someone trips, someone catches them, nobody keeps score. Decisions flow through consent. SI weaves through daily life as structure, not surveillance. Everything is simple, curious, open-hearted.
 
 **Why it comes fourth:** Writing this well requires having experienced the campfire. And reading it well requires having experienced the opening. Without personal experience of the arbor, this reads as fantasy. With it, it reads as recognition — "yes, that's what it felt like, but bigger."
 

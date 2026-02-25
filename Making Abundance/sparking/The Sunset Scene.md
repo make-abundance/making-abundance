@@ -19,7 +19,7 @@ This is the Roddenberry move (see [[Lenses#Gene Roddenberry — Showing the Futu
 
 - **Feel like recognition, not fantasy.** Readers who've experienced the opening (individually or in a Campfire) should read this and think "yes, that's what it felt like, but bigger." Without that prior experience, it risks reading as naive fiction.
 - **Show problems without dread.** Things go wrong in this community. Someone trips, someone catches them, nobody keeps score. A decision needs making — it flows through consent. The problems are real; the contraction around them is absent.
-- **Make AI feel natural.** AI weaves through daily life as structure, not surveillance. It's the arbor — facilitating, not controlling. Readers should barely notice it, the way you barely notice the trellis when the garden is blooming.
+- **Make SI feel natural.** SI weaves through daily life as structure, not surveillance. It's the arbor — facilitating, not controlling. Readers should barely notice it, the way you barely notice the trellis when the garden is blooming.
 - **Be a scene, not a manifesto.** No character explains how the economics work. No one delivers a speech about governance. The structure shows in how people behave, not in what they say about it.
 
 ## What's Referenced in [[The Sequence]]

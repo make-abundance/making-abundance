@@ -28,4 +28,4 @@ Start with the contraction — the body-level experience of maintaining scarcity
 Start with the structural case — how the cycle of abundance is already complete, why the only remaining constraint is organizational, and what governance makes extraction impossible.
 
 **[[The Campfire|I want to do this with a group.]]**
-Start with the experience — a 90-minute AI-facilitated session where a group of people feel what it's like to make decisions without the contraction. *(This is a design — not yet tested.)*
+Start with the experience — a 90-minute SI-facilitated session where a group of people feel what it's like to make decisions without the contraction. *(This is a design — not yet tested.)*

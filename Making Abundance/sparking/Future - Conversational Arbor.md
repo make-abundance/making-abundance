@@ -25,9 +25,9 @@ This works for the current audience — a small, fully-aligned circle doing the 
 - Adapt the sequence based on what someone has already read or felt
 - Surface the right open question for the right person at the right time
 
-## Next: AI Agent as Navigator
+## Next: SI Agent as Navigator
 
-An AI that can route newcomers through the material based on their responses. Not a chatbot that answers questions about the content — an arbor that helps people find their own path through it.
+An SI that can route newcomers through the material based on their responses. Not a chatbot that answers questions about the content — an arbor that helps people find their own path through it.
 
 The agent would:
 - Start with a version of what `Abundance is Here Now.md` does in text — evoke the contraction, offer paths
@@ -37,11 +37,11 @@ The agent would:
 
 The frontmatter system supports this: `status` tells the agent what's solid vs. exploratory, `area` routes between sparking and engine room, `sequence-step` orders the sparking flow.
 
-**Key design constraint:** The agent is an arbor, not a funnel. It opens paths — it doesn't drive toward a predetermined destination. If someone wants to start with the engine room, the agent helps them do that well, not redirects them to start with feelings.
+**Key design constraint:** The SI agent is an arbor, not a funnel. It opens paths — it doesn't drive toward a predetermined destination. If someone wants to start with the engine room, the agent helps them do that well, not redirects them to start with feelings.
 
 ## Later: RAG-Supported Conversation
 
-A conversational interface with retrieval-augmented generation over the full vault. The AI doesn't just route — it can synthesize, connect ideas across documents, and engage in genuine dialogue about the material.
+A conversational interface with retrieval-augmented generation over the full vault. The SI doesn't just route — it can synthesize, connect ideas across documents, and engage in genuine dialogue about the material.
 
 This enables:
 - A newcomer asking "What would this look like in my company?" and getting an answer that weaves together The Arbor, Kindness in Practice, and Operational Defenses
@@ -55,6 +55,6 @@ This enables:
 
 ## The Through-Line
 
-At every stage, the navigation is an arbor: structure that reveals paths rather than directing traffic. The filesystem links, the AI agent, and the RAG conversation all follow the same principle — open growing space for the reader, don't close it.
+At every stage, the navigation is an arbor: structure that reveals paths rather than directing traffic. The filesystem links, the SI agent, and the RAG conversation all follow the same principle — open growing space for the reader, don't close it.
 
 The evolution is in capability, not in philosophy. More paths to light, not a different kind of light.

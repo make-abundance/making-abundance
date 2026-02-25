@@ -52,7 +52,7 @@ See [[The Sequence]] for the full flow and reasoning. In brief:
 
 1. **Name the Contraction** — a short written piece that walks the reader through recognizing it in their own body
 2. **The Pointing-Out Piece** — Loch Kelly-style, guide the reader through one moment of opening
-3. **The Campfire** — a 90-minute AI-facilitated experience where a group feels the arbor for the first time
+3. **The Campfire** — a 90-minute SI-facilitated experience where a group feels the arbor for the first time
 4. **The Sunset Scene** — a day in a community that lives in the arbor, written from felt experience
 5. **The Arbor Test** — the keystone commitment: "Does this open growing space or close it?"
 6. **The Engine Room** — for those who've felt the opening and want to understand the structure

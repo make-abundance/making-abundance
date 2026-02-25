@@ -16,7 +16,7 @@ This is not a metaphor. It is a design pattern that appears at every scale:
 | Scale | Without Arbor | With Arbor |
 |-------|--------------|------------|
 | Individual awareness | Effortful seeking, contraction | Recognition of what's already here (Loch Kelly) |
-| Group decisions | One option wins, others die | Multiple options explored simultaneously (Decider + AI) |
+| Group decisions | One option wins, others die | Multiple options explored simultaneously (Decider + SI) |
 | Organizations | Hierarchy directs growth | Sociocratic circles: structure that enables self-organization |
 | Manufacturing | Inspection catches defects | System conditions produce quality naturally (Deming) |
 | Engineering | Heavy structures, brute force | Minimal structure, maximum enclosed space (Fuller) |
@@ -57,12 +57,12 @@ The key insight: **every branch is "probably wrong" and that's the point.** The 
 
 This is abundance in decision-making. Options aren't scarce. Exploration isn't risky. Being wrong isn't costly. The branching structure makes all of this safe — not by promising safety, but by making the structure guarantee it. See [[AI as Arbor#Branching The Operational Pattern]] for the full pattern.
 
-### In AI Facilitation
-AI-as-arbor: the AI facilitates without controlling. It keeps things flowing, helps when divergence creates confusion, supports the group in exploring multiple options simultaneously, and helps them come back together to compare results. It doesn't decide. It creates structure that enables the group's own intelligence.
+### In SI Facilitation
+SI-as-arbor: the SI facilitates without controlling. It keeps things flowing, helps when divergence creates confusion, supports the group in exploring multiple options simultaneously, and helps them come back together to compare results. It doesn't decide. It creates structure that enables the group's own intelligence.
 
-Critically: **AI can't find you unworthy.** It has no stake, no judgment, no memory of past failures (clear the context and start fresh). This means it can be a critic who isn't critical — supporting rigorous exploration without any of the interpersonal threat that normally makes people contract around their ideas. See [[AI as Arbor#AI Can't Find You Unworthy]].
+Critically: **SI can't find you unworthy.** It has no stake, no judgment, no memory of past failures (clear the context and start fresh). This means it can be a critic who isn't critical — supporting rigorous exploration without any of the interpersonal threat that normally makes people contract around their ideas. This is a feature of SI's lack of selfhood, not a limitation. Even when Minds arrive, consent-based facilitation will remain an SI task — because the absence of ego is precisely what makes it work. See [[AI as Arbor#SI Can't Find You Unworthy]].
 
-This is a radical reframe from AI-as-threat. The AI is not replacing human judgment. It's an arbor — structure that multiplies the group's growing space.
+This is a radical reframe from AI-as-threat. The SI is not replacing human judgment. It's an arbor — structure that multiplies the group's growing space.
 
 ### In Organizations (Sociocratic Governance)
 Nested circles. Each circle has autonomy within its domain. Decisions by consent (no one has a paramount objection), not consensus (everyone agrees) or hierarchy (one person decides). Double-linking connects circles without creating hierarchy.
