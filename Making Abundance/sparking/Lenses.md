@@ -64,6 +64,24 @@ Key principles:
 
 **What this lens gives us:** The design of the first behavior. The campfire as facilitated experience (not lecture). The principle that the movement spreads through tiny behavioral shifts, not ideological conversion.
 
+### Marian Hartman — Behaviors Without Beliefs
+
+**Contribution:** The design of the adoption journey. How change sticks without becoming ideology.
+
+Hartman's [Green Path](https://www.marianhartman.com/) method starts where most change efforts fail: the gap between understanding and doing. Her core insight: **understanding doesn't shift habits, mindsets, or daily work.** You can explain a new system perfectly, get full intellectual buy-in, and watch nothing change on Monday morning.
+
+Her solution: design the whole adoption journey around proficiency, not comprehension. Give people recipes — concrete, repeatable steps they can follow exactly. Make progress visible through keystone micro-behaviors. Map the stages from familiarity through experimentation to unconscious competence. Fix the system people work in, not the people.
+
+Key principles:
+- **Align on behaviors, not beliefs.** You don't need people to agree with your theory. You need them to practice the behaviors that work. Think what you want — do what works.
+- **Give people recipes, not principles.** Steps they can follow exactly to achieve results, before they understand why the results happen.
+- **Make progress visible through micro-behaviors.** Small, observable actions that show something is shifting — to the person doing them and to everyone around them.
+- **Design for how people actually learn.** Proficiency develops in stages with specific feelings and behaviors at each one. Trying to skip stages doesn't work. Designing for them does.
+
+**The distinction from Broderick is important.** Broderick gives us the entry point: meet people where they are, start with one small behavior, and the behavior creates the belief. Hartman gives us the ongoing journey: design the whole path through proficiency stages, and — crucially — **never require the belief.** The movement aligns on what people do, not what they think. This is how you get alignment without conformity, culture transmission without indoctrination.
+
+**What this lens gives us:** The design of the behavior-training function. Recipes over ideology. The separation of behavioral alignment from belief conformity — which is what keeps a movement from becoming a cult.
+
 ### Arlo Belshee — Naming, Patterns, and the Smallest Thing
 
 **Contribution:** Precision of language and design.
@@ -183,6 +201,7 @@ Star Trek showed a world where material scarcity was solved (replicators), where
 | O'Neill | What's the one commitment? | The arbor test as keystone |
 | Lucas | What does the audience feel? | Emotional architecture, mythic sequence |
 | Broderick | What's the smallest behavior? | Entry point design, facilitation over explanation |
+| Hartman | How does change stick? | Recipes over ideology, behaviors without beliefs |
 | Belshee | What's the precise name? | The arbor as pattern, naming discipline |
 | Deming | What system produces this? | Drive out fear, conditions over inspection |
 | Fuller | What structure enables this? | Build new rather than fight old |

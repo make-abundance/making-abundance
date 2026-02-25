@@ -36,7 +36,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with th
 - Ask what perspective to take when relevant
 
 **Workflow**:
-- Commit at each significant idea — when a thought has landed, capture it. Don't batch. A commit is a save point, not a deliverable.
+- **Commit after each chunk of independent work.** When a thought has landed, a lens has been added, a section has been written — commit immediately. Don't batch. Don't wait for the user to ask. A commit is a save point, not a deliverable.
 - Work on `main` for ideas the circle has decided on or that refine existing decisions.
 - Work on `probably-wrong/` branches for exploration (see Branching below).
 
