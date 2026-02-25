@@ -53,34 +53,57 @@ This is **not a codebase**. It is an Obsidian vault containing thought leadershi
 ## Repository Structure
 
 ```
-Making Abundance/           # Obsidian vault root
-├── .obsidian/              # Obsidian configuration
-├── Abundance is Here Now.md    # Opening thesis
-└── core-idea/              # Foundational concepts
-    ├── The Core Abundance Engine.md
-    ├── Wealth vs Richness.md
-    ├── Gradual Abundance Model.md
-    ├── Kindness - The Unfair Competitive Edge.md
-    └── Kindness in Practice.md
+Making Abundance/              # Obsidian vault root
+├── .obsidian/                 # Obsidian configuration
+├── Abundance is Here Now.md   # Opening thesis
+├── core-idea/                 # The Engine Room: structural, economic, governance case
+│   ├── The Argument Clarified.md
+│   ├── The Core Abundance Engine.md
+│   ├── Wealth vs Richness.md
+│   ├── Gradual Abundance Model.md
+│   ├── Kindness - The Unfair Competitive Edge.md
+│   ├── Kindness in Practice.md
+│   ├── Operational Defenses Against Scarcity Behavior.md
+│   └── Expansion Model and Bootstrap Strategy.md
+├── sparking/                  # The Spark: movement ignition, invitation, experience
+│   ├── The Spark.md           # Overview and purpose
+│   ├── Lenses.md              # Perspectives shaping the sparking work
+│   ├── The Contraction.md     # Naming the dread of artificial scarcity
+│   ├── The Arbor.md           # Core design pattern: structure that reveals
+│   ├── The Sequence.md        # Six-step flow from feeling to understanding
+│   ├── The Campfire.md        # 90-minute AI-facilitated group experience
+│   └── AI as Arbor.md         # AI facilitation philosophy
+examples/                      # Evidence base (outside vault)
 ```
+
+### Two Areas of Work
+
+**The Spark** (`sparking/`): The front door. Content, experiences, and sequences that invite people into abundance before they understand how it works. Starts with feeling, ends with curiosity about structure.
+
+**The Engine Room** (`core-idea/`): The interior. Structural, economic, and governance case for abundance. Answers "How does this actually work?" for people who've already felt the pull.
 
 ## Core Concepts
 
 When working with these documents, understand these foundational distinctions:
 
+### Sparking Concepts (the invitation)
+- **The Contraction**: The body-level experience of maintaining scarcity. The dread, vigilance, and effort that everyone carries but doesn't name. The movement starts by naming it.
+- **The Arbor**: Design pattern — structure that reveals rather than constrains. Like a garden arbor that multiplies growing space. The opposite of both hierarchy (which directs) and anarchy (where plants strangle each other). Appears at every scale: awareness, decisions, organizations, economics.
+- **The Opening**: What happens when the contraction releases. Not something you build — what's already there when you stop maintaining the contraction. Abundance is the opening at economic scale.
+
+### Engine Room Concepts (the structure)
 - **Wealth vs Richness**: Wealth is absolute (what you have, your options). Richness is relative (how much more you have than others). The movement maximizes Wealth by minimizing Richness.
-
 - **Four-Stage Model**: Goods/services progress through: Scarce → Artificially Scarce → Abundant → Free
-
 - **The Core Engine**: Energy (solar), human labor (robotics/drones), human thought (AI), and raw materials are all now achievable in abundance. The remaining constraint is company ownership distribution.
-
 - **Kindness as Competitive Edge**: Two-tier pricing (Scarcity Market Price vs Abundance Price). People buy into abundance through contribution, not cash.
-
 - **Sociocratic Governance**: No hierarchy, no positional authority. Decisions by Consent, not consensus or power. Equal stipends ($10k scarcity dollars/month) with required spending categories.
 
 ## Working With This Content
 
 - Documents use Obsidian's wikilink format `[[Document Name]]` for internal links
 - Maintain the distinction between Wealth (absolute) and Richness (relative) throughout
-- New documents should go in `core-idea/` if they establish foundational concepts, or at the vault root for applications/examples
+- New documents for structural/economic/governance concepts go in `core-idea/`
+- New documents for movement sparking, invitation, and experience design go in `sparking/`
+- Evidence and research go in `examples/` (outside the vault)
 - The ideas are interconnected; consider cross-references when adding or editing content
+- When working on sparking content, apply the lenses documented in `sparking/Lenses.md`
