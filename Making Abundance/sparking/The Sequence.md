@@ -5,6 +5,9 @@ area: sparking
 
 # The Sequence
 
+> [!info] This is a design
+> The sequence has been mapped out but not yet tested. The steps described here are the recommended path — the actual experience of running them will reshape the design.
+
 ## Why Sequence Matters
 
 The sequence is not arbitrary. Each step creates a precondition for the next. You can't feel the arbor before you've named the contraction. You can't write the Sunset Scene before you've experienced the campfire. You can't absorb the engine room before you've felt the opening.

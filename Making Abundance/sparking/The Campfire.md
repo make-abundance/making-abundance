@@ -6,6 +6,9 @@ sequence-step: 3
 
 # The Campfire
 
+> [!info] This is a design
+> The Campfire has been designed but not yet facilitated. The four-movement structure described here will evolve once real groups experience it.
+
 ## What It Is
 
 A 90-minute facilitated experience for 8-12 people. AI-facilitated throughout. The purpose: let a group of people feel the arbor for the first time. Not understand it — feel it.
