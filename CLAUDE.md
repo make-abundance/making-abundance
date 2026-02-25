@@ -96,6 +96,64 @@ git worktree add ../making-abundance-explore probably-wrong/<circle>/<problem>/<
 
 Before merging anything to `main`, ask: **"Does this open growing space or close it?"** A merge to main is a decision. Make it consciously.
 
+## Reopening Closed Decisions
+
+Decisions on `main` can be wrong. Reopening one is opening, not failure. It's the arbor test applied retroactively: "This closed growing space. Let's reopen it."
+
+### When to reopen
+
+- A piece on `main` keeps feeling wrong — the discomfort persists across sessions
+- New information contradicts a prior decision
+- The circle's understanding has shifted and the old decision no longer fits
+
+The signal is always the same: **someone feels the contraction around something that's supposed to be decided.** That feeling is data.
+
+### How it works (from the human's perspective)
+
+1. **Flag the discomfort.** Tell the AI: "This piece feels wrong" or "I want to revisit the decision around X." You don't need to know what's wrong or what to do about it. Just name the feeling.
+
+2. **AI shows the history.** The AI surfaces: when the decision was made, what commits carried it, what context existed at the time, what's changed since. You see the full picture without digging through git.
+
+3. **Confirm the decision point.** You identify which specific commits represent the decision you want to reopen. The AI helps you classify: which commits are part of the decision, which are unrelated work that happened to land nearby.
+
+4. **AI executes the reversal.** The AI handles all git operations — creating a new branch, reverting or moving commits, preserving everything. You never run a git command. The AI shows you the result and explains what it did.
+
+5. **AI shows the result.** You see the state of `main` after the reversal and the preserved decision on its branch. You confirm it looks right.
+
+### Safety guarantees
+
+- **Nothing is deleted.** Reverted commits still exist in history. The original decision is preserved on a reference branch.
+- **Reflog preserves everything.** Even if something goes wrong, git's reflog has a complete record.
+- **Human confirms every step.** The AI proposes, the human approves. No silent operations.
+- **New branch, not destructive rewrite.** The reversal creates new commits on `main`, it doesn't rewrite history.
+
+> [!note]- Technical reference (git commands)
+> For transparency, here's what the AI does under the hood. You don't need to run these — the AI handles it.
+>
+> ```bash
+> # 1. Create a reference branch preserving the original state
+> git branch archive/decision-name
+>
+> # 2. Identify the commits to revert
+> git log --oneline main  # AI shows this to human for classification
+>
+> # 3. Revert the specific commits (newest first to avoid conflicts)
+> git revert <commit-hash-3> --no-edit
+> git revert <commit-hash-2> --no-edit
+> git revert <commit-hash-1> --no-edit
+>
+> # 4. If the reverted area needs fresh exploration:
+> git checkout -b probably-wrong/<circle>/<problem>/<new-idea>
+> ```
+>
+> If commits are entangled (decision mixed with unrelated work), the AI may use more targeted approaches — partial reverts, cherry-picks of the good parts, or interactive separation. The human always sees and approves the plan before execution.
+
+### Edge cases
+
+- **No clean last-known-good state.** Sometimes the decision was woven into other work. The AI helps you separate the threads — identifying which changes belong to the decision and which are independent. This may require creating a fresh branch and cherry-picking the parts you want to keep.
+- **Entangled commits.** A single commit may contain both the decision and unrelated work. The AI can create a partial revert that surgically removes only the decision-related changes.
+- **The circle disagrees about reopening.** This is a governance question, not a technical one. Use the Decider Protocol. If someone has a paramount objection to reopening, the objection gets heard. Reopening is itself a decision that follows the same consent process as any other.
+
 ## Current Phase
 
 **Focus**: Clarity of thought. Developing the right model, backed by references to existing implementations.
