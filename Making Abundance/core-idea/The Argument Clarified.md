@@ -124,3 +124,11 @@ This argument assumes sociocratic governance actually works as described. The op
 - How do you interface with the scarcity economy without being corrupted by it?
 
 See: [[Operational Defenses Against Scarcity Behavior]]
+
+---
+
+## From here
+
+- [[Wealth vs Richness]] — the foundational distinction the movement is built on
+- [[The Core Abundance Engine]] — detailed evidence that the production cycle is complete
+- [[Operational Defenses Against Scarcity Behavior]] — how the governance resists capture

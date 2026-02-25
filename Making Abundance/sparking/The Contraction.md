@@ -112,3 +112,11 @@ The right name may emerge from the writing of the Pointing-Out Piece — from wa
 - Does the contraction need a single name, or is it a family of related contractions (work-contraction, relationship-contraction, self-worth-contraction)?
 - Should the name for the opening be as specific as the name for the contraction? Or is "opening" enough because it's the natural state — the thing that doesn't need a name?
 - How do we name it without pathologizing it? The contraction developed for good reasons (real scarcity, real threats). The move isn't "you're broken" — it's "the threat has passed, you can set this down."
+
+---
+
+## From here
+
+- [[The Pointing-Out Piece]] — guide yourself through one moment of opening *(open question)*
+- [[The Arbor]] — the design pattern that makes the opening structural
+- [[The Argument Clarified]] — the economic case for why scarcity is artificial

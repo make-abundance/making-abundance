@@ -106,3 +106,11 @@ This is why the sequence works: name the contraction (so people can feel it), th
 - How do you build an arbor for something that IS genuinely scarce (housing, healthcare in the current system)?
 - What's the minimum viable arbor? The smallest structure that demonstrates the pattern?
 - Can the arbor test be gamed? What would gaming it look like, and how would you defend against it?
+
+---
+
+## From here
+
+- [[The Campfire]] — experience the arbor in a group *(design)*
+- [[AI as Arbor]] — how AI becomes structure that reveals
+- [[The Sequence]] — the six-step flow from feeling to understanding *(design)*

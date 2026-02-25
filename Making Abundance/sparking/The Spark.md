@@ -80,3 +80,11 @@ The sparking sequence is the **front door**. The engine room is the **interior**
 Nobody tours the engine room before deciding to board the ship. They stand on the dock, feel the wind, see the horizon, and decide they want to go there. Then they want to know how the ship works.
 
 The existing documents in `core-idea/` become the final stage of the sparking sequence — the place people arrive when they've felt the opening and want to understand the structure that sustains it.
+
+---
+
+## From here
+
+- [[The Contraction]] — the body-level entry point, where the sequence begins
+- [[The Sequence]] — the full six-step flow *(design)*
+- [[Lenses]] — the perspectives shaping the sparking work
