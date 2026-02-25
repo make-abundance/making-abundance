@@ -120,10 +120,10 @@ The above reads like a calm structural argument. It isn't. There's a clock.
 
 Charles Stross's *Accelerando* depicts the same self-reinforcing cycle described in Part 1 — but run under concentrated ownership. The result: Economics 2.0. An economy that optimizes faster than humans can comprehend, where uploaded consciousnesses become pawns in computational games they can't understand, where the value flows to whoever started the loop. Not evil — just optimization that's moved beyond human participation.
 
-**The acceleration is happening now.** The solar-robot-AI loop doesn't wait for the movement to be ready. Each node's cost reduction accelerates the others. AI improves the efficiency of robot manufacturing which reduces the cost of solar which powers more AI. This loop is running under concentrated corporate ownership *today*.
+**The acceleration is happening now.** The solar-robot-ML loop doesn't wait for the movement to be ready. Each node's cost reduction accelerates the others. ML improves the efficiency of robot manufacturing which reduces the cost of solar which powers more ML. This loop is running under concentrated corporate ownership *today*.
 
 If the ownership problem isn't solved while the transition is still comprehensible to humans:
-- Decisions about production move inside AI systems that humans can't audit or govern
+- Decisions about production move inside ML systems that humans can't audit or govern — the threshold where ML becomes something else
 - The gap between owners and non-owners becomes structurally permanent
 - The organizational problem becomes unsolvable because the system has moved past the point where human governance can reach it
 

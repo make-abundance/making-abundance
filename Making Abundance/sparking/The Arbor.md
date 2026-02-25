@@ -70,7 +70,7 @@ Nested circles. Each circle has autonomy within its domain. Decisions by consent
 This is the arbor at organizational scale. The structure doesn't direct — it connects and enables.
 
 ### In Economics (The Abundance Engine)
-The core engine (solar + robotics + AI + materials) is an arbor for material goods. It creates structure (supply chains, automation, distribution) that multiplies access. As production costs approach zero, the remaining constraint is organizational — who owns the structure and how decisions are made about it.
+The core engine (solar + robotics + ML/SI + materials) is an arbor for material goods. It creates structure (supply chains, automation, distribution) that multiplies access. As production costs approach zero, the remaining constraint is organizational — who owns the structure and how decisions are made about it.
 
 ### In Movements (Emergent Strategy)
 Adrienne Maree Brown: what you practice at the small scale sets the patterns for the whole system. The campfire IS the movement. The arbor pattern at 12 people IS the arbor pattern at 12 million. Scale is fractal, not hierarchical.
