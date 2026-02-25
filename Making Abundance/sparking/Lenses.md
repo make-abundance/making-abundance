@@ -109,11 +109,15 @@ Fuller spent his life doing more with less — geodesic domes, synergetics, "Spa
 
 **What this lens gives us:** The strategic principle of building the new rather than fighting the old. The confidence that structure can do more with less. The abolition of the scarcity assumption at the engineering level.
 
-### Adrienne Maree Brown — Emergent Strategy
+### Adrienne Maree Brown — Emergent Strategy / Brafman & Beckstrom — The Starfish and the Spider
 
-**Contribution:** How small-scale patterns become large-scale systems.
+**Contribution:** How small-scale patterns become large-scale systems. Why decentralized organizations are unstoppable.
 
 Brown's *Emergent Strategy* draws from biomimicry and complexity science: **what you practice at the small scale sets the patterns for the whole system.** Fractals — the shape of the small is the shape of the large.
+
+Brafman and Beckstrom's *The Starfish and the Spider* makes the structural case: spider organizations (centralized, hierarchical) are efficient but fragile — cut off the head and the body dies. Starfish organizations (decentralized, distributed) are resilient — cut off a leg and it grows a new one. Some starfish species: the leg grows a whole new starfish. Decentralized organizations get *stronger* when attacked.
+
+Together, these lenses say: the movement scales not by growing a central organization bigger, but by replicating the small pattern everywhere. Each campfire is a complete starfish. Each one can spawn new ones. No head to cut off. No center to capture.
 
 Key principles:
 - Small is good, small is all (the large is a reflection of the small)
@@ -121,10 +125,12 @@ Key principles:
 - There is always enough time for the right work
 - Move at the speed of trust
 - Focus on critical connections more than critical mass
+- Decentralize everything that can be decentralized
+- The catalyst (person who starts a starfish circle) matters, but the catalyst's power is to leave, not to lead
 
-**Connection to the arbor:** The campfire IS the movement. Not a recruitment tool for the movement. The pattern of 12 people making consent-based decisions with AI facilitation IS the pattern of the whole system. If the small version doesn't work, the large version won't either. If the small version does work, the large version is just more of it.
+**Connection to the arbor:** The campfire IS the movement. Not a recruitment tool for the movement. The pattern of 12 people making consent-based decisions with AI facilitation IS the pattern of the whole system. If the small version doesn't work, the large version won't either. If the small version does work, the large version is just more of it. And because each campfire is a complete starfish, the movement is structurally uncapturable.
 
-**What this lens gives us:** The confidence that the campfire is enough. The discipline to get the small pattern right. The understanding that scale is fractal, not hierarchical.
+**What this lens gives us:** The confidence that the campfire is enough. The discipline to get the small pattern right. The understanding that scale is fractal, not hierarchical. The structural resilience of decentralization — no head to cut off, no center to capture.
 
 ### Donella Meadows — Leverage Points
 
@@ -175,7 +181,7 @@ Star Trek showed a world where material scarcity was solved (replicators), where
 | Belshee | What's the precise name? | The arbor as pattern, naming discipline |
 | Deming | What system produces this? | Drive out fear, conditions over inspection |
 | Fuller | What structure enables this? | Build new rather than fight old |
-| Brown | What's the small-scale fractal? | Campfire as the movement in miniature |
+| Brown / Brafman & Beckstrom | What's the small-scale fractal? | Campfire as the movement in miniature; starfish resilience |
 | Meadows | Where's the highest leverage? | The contraction as paradigm-level intervention |
 | Disney | How do you experience it? | Build spaces people walk into |
 | Roddenberry | What does the future feel like? | Show the future, let people want it |

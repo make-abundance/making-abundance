@@ -16,7 +16,8 @@ This is not a metaphor. It is a design pattern that appears at every scale:
 | Manufacturing | Inspection catches defects | System conditions produce quality naturally (Deming) |
 | Engineering | Heavy structures, brute force | Minimal structure, maximum enclosed space (Fuller) |
 | Economics | Artificial scarcity, competition for access | Abundance engine: structure that distributes access |
-| Social movements | Central plan, compliance | Fractal pattern: small-scale practice becomes large-scale (Brown) |
+| Social movements | Central plan, compliance | Fractal pattern: small-scale practice becomes large-scale (Brown); starfish resilience (Brafman & Beckstrom) |
+| Decision-making | Debate until one option wins | Branch, explore probably-wrong directions, merge what works |
 
 ## Three Ways to Organize — Only One Is an Arbor
 
@@ -44,8 +45,17 @@ The Decider Protocol is an arbor for group decisions. Its structure:
 
 The key arbor move: **when the group diverges, you don't force convergence.** You ask: "What if both paths could be tried? What would that take?" This reveals that the scarcity of options was artificial. The assumption that the group must all do the same thing — that opportunity is scarce and I must make sure my idea wins — dissolves when the structure makes room for multiple explorations.
 
+### In Branching (Source Control as Arbor)
+The git branching pattern is the arbor made operational. Branch = explore without risk. Multiple branches = multiple paths to light. Merge = choose what to keep after the fact, not before. History = nothing is lost.
+
+The key insight: **every branch is "probably wrong" and that's the point.** The freedom of knowing you're exploring something probably wrong dissolves the contraction around being right. When you can always go back, when nothing is lost, when being wrong has no cost — you explore freely. You find things that are useful, interesting, challenging. You bring them back to main.
+
+This is abundance in decision-making. Options aren't scarce. Exploration isn't risky. Being wrong isn't costly. The branching structure makes all of this safe — not by promising safety, but by making the structure guarantee it. See [[AI as Arbor#Branching The Operational Pattern]] for the full pattern.
+
 ### In AI Facilitation
 AI-as-arbor: the AI facilitates without controlling. It keeps things flowing, helps when divergence creates confusion, supports the group in exploring multiple options simultaneously, and helps them come back together to compare results. It doesn't decide. It creates structure that enables the group's own intelligence.
+
+Critically: **AI can't find you unworthy.** It has no stake, no judgment, no memory of past failures (clear the context and start fresh). This means it can be a critic who isn't critical — supporting rigorous exploration without any of the interpersonal threat that normally makes people contract around their ideas. See [[AI as Arbor#AI Can't Find You Unworthy]].
 
 This is a radical reframe from AI-as-threat. The AI is not replacing human judgment. It's an arbor — structure that multiplies the group's growing space.
 

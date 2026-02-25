@@ -52,24 +52,31 @@ The groupthink scarcity — the worry that everyone will have to do the same thi
 - The AI helps people articulate proposals crisply (this is where AI-as-arbor starts becoming tangible — it supports expression, not control).
 - When divergence happens, the AI treats it as a FEATURE, not a problem. "Great — we have three genuine directions. That's more information than forced agreement would give us."
 
-### Movement 3 — Multiple Paths, Live (30 minutes)
+### Movement 3 — Branch, Explore, Merge (30 minutes)
 
-**Purpose:** Actually explore multiple options simultaneously. Experience the arbor in action.
+**Purpose:** Actually explore multiple options simultaneously. Experience the arbor in action. Learn branching — the operational pattern of abundance.
+
+**The branching frame:**
+The facilitator (AI or human) names what's about to happen: "We're going to branch. Each group is going to explore a direction that is *probably wrong*. That's the point. You don't need to be right — you need to find things that are useful, interesting, or challenging. Then we'll come back together and merge: choose what to keep."
+
+This framing is critical. **"Probably wrong" is the release.** It dissolves the contraction around being right. When everyone is exploring something probably wrong, no one has to defend their direction. No one has to win. The identity-tied-to-opinion contraction drops away because the structure has made it safe to be wrong.
 
 **Flow:**
 - The group splits into 2-3 small groups, each pursuing a different option from the divergence in Movement 2.
-- 20 minutes of real work. Each subgroup explores their direction: what would this look like? What problems does it solve? What does it miss?
-- The AI supports each subgroup (if multiple AI instances are available) or moves between them, helping each develop their direction fully rather than superficially.
-- Come back together. Each subgroup shares what they found. 2-3 minutes each.
-- The AI helps synthesize: "Here's what emerged across all three explorations..."
+- Each subgroup gets its own AI facilitator. Each AI helps its group thoroughly explore their direction — not superficially, not defensively, but with genuine curiosity.
+- 20 minutes of real work. What would this look like? What problems does it solve? What does it miss? What's surprising?
+- The AIs have no stake. They help each direction develop fully. A critic who isn't critical — supporting rigorous exploration without any judgment about which direction is "better."
+- Come back together. Each subgroup surfaces what they found. Not a pitch — a report. "Here's what we discovered. Here's what was useful. Here's what was surprising."
+- The group merges: what do we want to keep from each branch? The AI helps synthesize, but the group decides what to blend, what to carry forward, what to set aside.
 
 **The arbor test in action:** The group now makes the NEXT decision with actual evidence from multiple paths, not hypothetical arguments about which path MIGHT work. This is profoundly different from normal decision-making, where options die the moment the group "picks one."
 
 **Key principles:**
-- The subgroups are exploring, not competing. There's no "winning team."
-- The AI helps each direction develop fully, without bias toward one path.
-- When the group reconvenes, the synthesis often reveals that elements from multiple paths can coexist — or that the divergence revealed something none of the paths had considered alone.
+- The subgroups are exploring, not competing. There's no "winning team." Everyone is exploring something probably wrong.
+- Each AI helps its direction develop fully, without bias. The AI can't find any direction unworthy — it has no stakes.
+- When the group reconvenes, the merge often reveals that elements from multiple branches coexist — or that the exploration surfaced something none of the branches had considered alone.
 - This is the experiential proof that divergence is wealth, not waste.
+- Nothing is lost. Even branches that aren't merged remain available. The group's full exploration is preserved.
 
 ### Movement 4 — Name What Happened (20 minutes)
 
