@@ -6,6 +6,7 @@
       {
         "id": "139ce5b7fbbef754",
         "type": "tabs",
+        "dimension": 72.27157360406092,
         "children": [
           {
             "id": "c8b6cc4693920bb9",
@@ -13,93 +14,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abundance is Here Now.md",
+                "file": "core-idea/Kindness in Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abundance is Here Now"
-            }
-          },
-          {
-            "id": "a28cc773a8952756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-idea/Gradual Abundance Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gradual Abundance Model"
-            }
-          },
-          {
-            "id": "3d870f0dab8fb293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-idea/The Core Abundance Engine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Core Abundance Engine"
-            }
-          },
-          {
-            "id": "1d7321dd26c4fd3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-idea/Kindness - The Unfair Competitive Edge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kindness - The Unfair Competitive Edge"
-            }
-          },
-          {
-            "id": "286519fd5f3e4459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "core-idea/Wealth vs Richness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wealth vs Richness"
-            }
-          },
-          {
-            "id": "330d159de91e1b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sparking/Lenses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lenses"
+              "title": "Kindness in Practice"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
-        "id": "f388b5830e1ecb60",
+        "id": "341fd696fe0a2d55",
         "type": "tabs",
+        "dimension": 27.728426395939085,
         "children": [
           {
-            "id": "57baa125d3d53f31",
+            "id": "844a8ea0eb2037c6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -270,25 +201,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "330d159de91e1b98",
+  "active": "c8b6cc4693920bb9",
   "lastOpenFiles": [
-    "sparking/AI as Arbor.md",
-    "sparking/Lenses.md.tmp.5300.1772018498842",
-    "sparking/The Arbor.md",
-    "sparking/The Campfire.md",
-    "sparking/The Sequence.md",
-    "core-idea/Expansion Model and Bootstrap Strategy.md",
-    "sparking/The Contraction.md",
-    "sparking/Lenses.md",
+    "core-idea/Kindness - The Unfair Competitive Edge.md",
+    "core-idea/Summary - The Completed Cycle.md",
+    "sparking/The Sunset Scene.md",
     "sparking/The Spark.md",
-    "sparking",
+    "sparking/The Sequence.md",
+    "sparking/The Pointing-Out Piece.md",
+    "sparking/The Contraction.md",
+    "sparking/The Campfire.md",
+    "sparking/The Arbor.md",
+    "sparking/Lenses.md",
+    "sparking/Future - Conversational Arbor.md",
+    "sparking/AI as Arbor.md",
+    "Summary - The Completed Cycle.md.tmp.24644.1772036801292",
+    "Summary - The Completed Cycle.md.tmp.24644.1772036752410",
     "core-idea/Operational Defenses Against Scarcity Behavior.md",
     "core-idea/The Argument Clarified.md",
     "core-idea/The Core Abundance Engine.md",
-    "core-idea/Wealth vs Richness.md",
+    "sparking/The Branching.md",
     "Abundance is Here Now.md",
+    "sparking/Lenses.md.tmp.26852.1772020513950",
+    "sparking/Lenses.md.tmp.26852.1772020509477",
+    "sparking/Lenses.md.tmp.5300.1772018498842",
+    "core-idea/Expansion Model and Bootstrap Strategy.md",
+    "sparking",
+    "core-idea/Wealth vs Richness.md",
     "core-idea/Kindness in Practice.md",
-    "core-idea/Kindness - The Unfair Competitive Edge.md",
     "core-idea/Gradual Abundance Model.md",
     "core-idea",
     "examples"
