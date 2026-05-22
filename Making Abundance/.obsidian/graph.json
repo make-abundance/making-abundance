@@ -6,20 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:sparking",
-      "color": { "a": 1, "h": 160, "s": 70, "l": 45 }
-    },
-    {
-      "query": "path:core-idea",
-      "color": { "a": 1, "h": 220, "s": 70, "l": 50 }
-    },
-    {
-      "query": "\"The Pointing-Out Piece\" OR \"The Sunset Scene\"",
-      "color": { "a": 1, "h": 35, "s": 85, "l": 55 }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -31,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }
